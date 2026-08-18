@@ -1,0 +1,1687 @@
+Region,Year,Source,Id,Life expectancy at birth for both sexes (years),Life expectancy at birth for females (years),Life expectancy at birth for males (years),"Maternal mortality ratio (deaths per 100,000 population)",Population annual rate of increase (percent),Total fertility rate (children per women),"Under five mortality rate for both sexes (per 1,000 live births)",Continent,World
+Afghanistan,2010,United Nations Population Division,4,60.7,62.3,59.1,,2.7,6.2,90.2,Asia,World
+Afghanistan,2010,WHO_UNICEF_UNFPA,4,,,,899,,,,Asia,World
+Afghanistan,2015,United Nations Population Division,4,62.3,64.2,60.4,,2.3,5.7,76.5,Asia,World
+Afghanistan,2015,WHO_UNICEF_UNFPA,4,,,,776,,,,Asia,World
+Afghanistan,2020,United Nations Population Division,4,61.5,64.7,58.5,,3.3,5.1,62.9,Asia,World
+Afghanistan,2020,WHO_UNICEF_UNFPA,4,,,,620,,,,Asia,World
+Afghanistan,2024,United Nations Population Division,4,66.3,67.8,64.7,,2.8,4.8,54.5,Asia,World
+Africa,2010,United Nations Population Division,2,58.8,60.3,57.2,,2.6,4.9,93.9,,
+Africa,2010,WHO_UNICEF_UNFPA,2,,,,593,,,,,
+Africa,2015,United Nations Population Division,2,60.8,62.6,59.1,,2.6,4.6,81.0,,
+Africa,2015,WHO_UNICEF_UNFPA,2,,,,526,,,,,
+Africa,2020,United Nations Population Division,2,62.3,64.3,60.2,,2.4,4.2,69.0,,
+Africa,2020,WHO_UNICEF_UNFPA,2,,,,487,,,,,
+Africa,2024,United Nations Population Division,2,64.0,66.1,62.0,,2.3,4.0,62.4,,
+Albania,2010,United Nations Population Division,8,78.4,81.1,75.8,,-1.1,1.7,13.4,Europe,World
+Albania,2010,WHO_UNICEF_UNFPA,8,,,,9,,,,Europe,World
+Albania,2015,United Nations Population Division,8,78.4,80.5,76.3,,-0.2,1.6,10.1,Europe,World
+Albania,2015,WHO_UNICEF_UNFPA,8,,,,7,,,,Europe,World
+Albania,2020,United Nations Population Division,8,77.8,80.3,75.4,,-0.4,1.4,9.4,Europe,World
+Albania,2020,WHO_UNICEF_UNFPA,8,,,,8,,,,Europe,World
+Albania,2024,United Nations Population Division,8,79.8,81.6,77.9,,-0.7,1.3,8.3,Europe,World
+Algeria,2010,United Nations Population Division,12,74.1,75.3,73.0,,2.0,2.9,28.1,Africa,World
+Algeria,2010,WHO_UNICEF_UNFPA,12,,,,112,,,,Africa,World
+Algeria,2015,United Nations Population Division,12,75.2,76.4,74.0,,2.0,3.1,25.3,Africa,World
+Algeria,2015,WHO_UNICEF_UNFPA,12,,,,89,,,,Africa,World
+Algeria,2020,United Nations Population Division,12,73.3,74.9,71.7,,1.6,2.9,22.8,Africa,World
+Algeria,2020,WHO_UNICEF_UNFPA,12,,,,78,,,,Africa,World
+Algeria,2024,United Nations Population Division,12,76.5,77.9,75.1,,1.4,2.7,20.5,Africa,World
+American Samoa,2010,United Nations Population Division,16,72.6,75.2,70.2,,-0.5,3.3,11.1,Oceania,World
+American Samoa,2015,United Nations Population Division,16,72.7,75.3,70.3,,-1.2,2.8,11.0,Oceania,World
+American Samoa,2024,United Nations Population Division,16,73.0,76.0,70.3,,-1.6,2.3,10.4,Oceania,World
+Americas,2010,United Nations Population Division,19,75.4,78.3,72.6,,1.0,2.1,18.8,,
+Americas,2010,WHO_UNICEF_UNFPA,19,,,,60,,,,,
+Americas,2015,United Nations Population Division,19,76.5,79.3,73.7,,0.9,2.0,15.4,,
+Americas,2015,WHO_UNICEF_UNFPA,19,,,,58,,,,,
+Americas,2020,United Nations Population Division,19,75.0,78.2,71.9,,0.5,1.8,13.7,,
+Americas,2020,WHO_UNICEF_UNFPA,19,,,,68,,,,,
+Americas,2024,United Nations Population Division,19,77.4,80.3,74.7,,0.7,1.7,12.7,,
+Andorra,2010,United Nations Population Division,20,84.2,86.7,82.1,,-7.2,1.3,5.9,Europe,World
+Andorra,2015,United Nations Population Division,20,84.5,86.6,82.6,,-2.2,1.2,5.8,Europe,World
+Andorra,2024,United Nations Population Division,20,84.2,86.2,82.3,,1.3,1.1,6.0,Europe,World
+Angola,2010,United Nations Population Division,24,57.2,59.2,55.3,,3.9,6.2,119.5,Africa,World
+Angola,2010,WHO_UNICEF_UNFPA,24,,,,367,,,,Africa,World
+Angola,2015,United Nations Population Division,24,61.0,63.4,58.7,,3.6,5.8,88.6,Africa,World
+Angola,2015,WHO_UNICEF_UNFPA,24,,,,274,,,,Africa,World
+Angola,2020,United Nations Population Division,24,63.1,65.8,60.5,,3.2,5.4,71.6,Africa,World
+Angola,2020,WHO_UNICEF_UNFPA,24,,,,222,,,,Africa,World
+Angola,2024,United Nations Population Division,24,64.8,67.3,62.3,,3.0,5.0,63.1,Africa,World
+Anguilla,2010,United Nations Population Division,660,77.2,81.0,73.7,,1.8,1.6,8.6,North America,World
+Anguilla,2015,United Nations Population Division,660,77.7,81.7,74.2,,2.5,1.4,7.4,North America,World
+Anguilla,2024,United Nations Population Division,660,79.5,82.8,76.2,,1.0,1.4,5.5,North America,World
+Antigua and Barbuda,2010,United Nations Population Division,28,76.7,79.9,73.3,,1.2,1.8,11.9,North America,World
+Antigua and Barbuda,2010,WHO_UNICEF_UNFPA,28,,,,31,,,,North America,World
+Antigua and Barbuda,2015,United Nations Population Division,28,76.9,80.0,73.5,,0.7,1.6,10.9,North America,World
+Antigua and Barbuda,2015,WHO_UNICEF_UNFPA,28,,,,27,,,,North America,World
+Antigua and Barbuda,2020,United Nations Population Division,28,77.2,79.8,74.2,,0.6,1.6,10.1,North America,World
+Antigua and Barbuda,2020,WHO_UNICEF_UNFPA,28,,,,21,,,,North America,World
+Antigua and Barbuda,2024,United Nations Population Division,28,77.8,80.4,74.7,,0.5,1.6,9.2,North America,World
+Argentina,2010,United Nations Population Division,32,75.7,78.7,72.5,,1.1,2.4,15.2,South America,World
+Argentina,2010,WHO_UNICEF_UNFPA,32,,,,55,,,,South America,World
+Argentina,2015,United Nations Population Division,32,76.6,79.8,73.4,,1.0,2.3,12.9,South America,World
+Argentina,2015,WHO_UNICEF_UNFPA,32,,,,39,,,,South America,World
+Argentina,2020,United Nations Population Division,32,75.9,78.8,73.0,,0.3,1.6,11.2,South America,World
+Argentina,2020,WHO_UNICEF_UNFPA,32,,,,45,,,,South America,World
+Argentina,2024,United Nations Population Division,32,77.5,80.0,75.0,,0.3,1.5,10.2,South America,World
+Armenia,2010,United Nations Population Division,51,72.9,76.7,68.8,,-0.5,1.6,18.6,Asia,World
+Armenia,2010,WHO_UNICEF_UNFPA,51,,,,33,,,,Asia,World
+Armenia,2015,United Nations Population Division,51,74.2,77.9,70.1,,-0.1,1.6,14.6,Asia,World
+Armenia,2015,WHO_UNICEF_UNFPA,51,,,,25,,,,Asia,World
+Armenia,2020,United Nations Population Division,51,68.9,76.3,61.9,,-0.7,1.6,11.4,Asia,World
+Armenia,2020,WHO_UNICEF_UNFPA,51,,,,27,,,,Asia,World
+Armenia,2024,United Nations Population Division,51,75.8,79.6,71.6,,-0.7,1.7,10.4,Asia,World
+Aruba,2010,United Nations Population Division,533,74.3,77.6,71.0,,1.0,1.9,18.0,North America,World
+Aruba,2015,United Nations Population Division,533,75.4,78.1,72.5,,0.8,1.9,16.5,North America,World
+Aruba,2024,United Nations Population Division,533,76.5,78.9,73.8,,0.1,1.6,13.3,North America,World
+Asia,2010,United Nations Population Division,142,71.4,73.8,69.1,,1.2,2.3,42.2,,
+Asia,2010,WHO_UNICEF_UNFPA,142,,,,148,,,,,
+Asia,2015,United Nations Population Division,142,73.0,75.5,70.6,,1.0,2.2,33.2,,
+Asia,2015,WHO_UNICEF_UNFPA,142,,,,117,,,,,
+Asia,2020,United Nations Population Division,142,73.6,76.3,71.1,,0.7,2.0,27.9,,
+Asia,2020,WHO_UNICEF_UNFPA,142,,,,104,,,,,
+Asia,2024,United Nations Population Division,142,74.8,77.4,72.3,,0.6,1.9,25.8,,
+Australia,2010,United Nations Population Division,36,82.0,84.2,79.8,,1.5,1.9,4.8,,
+Australia,2010,WHO_UNICEF_UNFPA,36,,,,5,,,,,
+Australia,2015,United Nations Population Division,36,82.6,84.6,80.6,,1.5,1.8,3.8,,
+Australia,2015,WHO_UNICEF_UNFPA,36,,,,5,,,,,
+Australia,2020,United Nations Population Division,36,83.7,85.7,81.6,,0.7,1.6,3.6,,
+Australia,2020,WHO_UNICEF_UNFPA,36,,,,3,,,,,
+Australia,2024,United Nations Population Division,36,84.1,85.8,82.3,,1.0,1.6,3.2,,
+Australia and New Zealand,2010,United Nations Population Division,53,81.9,84.0,79.7,,1.4,2.0,5.1,,
+Australia and New Zealand,2010,WHO_UNICEF_UNFPA,53,,,,6,,,,,
+Australia and New Zealand,2015,United Nations Population Division,53,82.4,84.4,80.5,,1.6,1.8,4.0,,
+Australia and New Zealand,2015,WHO_UNICEF_UNFPA,53,,,,6,,,,,
+Australia and New Zealand,2020,United Nations Population Division,53,83.5,85.5,81.5,,0.8,1.6,3.7,,
+Australia and New Zealand,2020,WHO_UNICEF_UNFPA,53,,,,4,,,,,
+Australia and New Zealand,2024,United Nations Population Division,53,83.8,85.5,82.0,,0.9,1.6,3.4,,
+Austria,2010,United Nations Population Division,40,80.5,83.1,77.7,,0.3,1.4,4.7,Europe,World
+Austria,2010,WHO_UNICEF_UNFPA,40,,,,6,,,,Europe,World
+Austria,2015,United Nations Population Division,40,81.2,83.6,78.6,,1.3,1.5,3.7,Europe,World
+Austria,2015,WHO_UNICEF_UNFPA,40,,,,6,,,,Europe,World
+Austria,2020,United Nations Population Division,40,81.8,84.3,79.2,,0.4,1.4,3.7,Europe,World
+Austria,2020,WHO_UNICEF_UNFPA,40,,,,5,,,,Europe,World
+Austria,2024,United Nations Population Division,40,82.1,84.4,79.8,,-0.1,1.3,3.4,Europe,World
+Azerbaijan,2010,United Nations Population Division,31,70.3,73.1,67.3,,1.2,1.9,37.9,Asia,World
+Azerbaijan,2010,WHO_UNICEF_UNFPA,31,,,,33,,,,Asia,World
+Azerbaijan,2015,United Nations Population Division,31,72.3,75.3,69.1,,1.2,2.1,26.8,Asia,World
+Azerbaijan,2015,WHO_UNICEF_UNFPA,31,,,,29,,,,Asia,World
+Azerbaijan,2020,United Nations Population Division,31,70.3,73.8,66.8,,0.6,1.8,20.0,Asia,World
+Azerbaijan,2020,WHO_UNICEF_UNFPA,31,,,,41,,,,Asia,World
+Azerbaijan,2024,United Nations Population Division,31,74.6,77.3,71.7,,0.6,1.7,16.9,Asia,World
+Bahamas,2010,United Nations Population Division,44,73.4,77.0,70.0,,1.2,1.8,15.4,North America,World
+Bahamas,2010,WHO_UNICEF_UNFPA,44,,,,79,,,,North America,World
+Bahamas,2015,United Nations Population Division,44,73.8,77.4,70.3,,0.7,1.6,15.1,North America,World
+Bahamas,2015,WHO_UNICEF_UNFPA,44,,,,84,,,,North America,World
+Bahamas,2020,United Nations Population Division,44,73.0,76.8,69.4,,0.2,1.4,13.2,North America,World
+Bahamas,2020,WHO_UNICEF_UNFPA,44,,,,77,,,,North America,World
+Bahamas,2024,United Nations Population Division,44,74.7,78.3,71.1,,0.5,1.4,12.5,North America,World
+Bahrain,2010,United Nations Population Division,48,78.6,79.7,77.6,,-0.3,2.0,8.8,Asia,World
+Bahrain,2010,WHO_UNICEF_UNFPA,48,,,,20,,,,Asia,World
+Bahrain,2015,United Nations Population Division,48,80.3,81.3,79.5,,4.0,2.1,7.6,Asia,World
+Bahrain,2015,WHO_UNICEF_UNFPA,48,,,,16,,,,Asia,World
+Bahrain,2020,United Nations Population Division,48,78.7,81.0,77.2,,0.7,1.9,9.1,Asia,World
+Bahrain,2020,WHO_UNICEF_UNFPA,48,,,,16,,,,Asia,World
+Bahrain,2024,United Nations Population Division,48,81.4,82.1,80.9,,2.4,1.8,6.2,Asia,World
+Bangladesh,2010,United Nations Population Division,50,68.0,69.7,66.5,,0.9,2.4,49.5,Asia,World
+Bangladesh,2010,WHO_UNICEF_UNFPA,50,,,,301,,,,Asia,World
+Bangladesh,2015,United Nations Population Division,50,70.5,72.6,68.7,,0.9,2.2,38.7,Asia,World
+Bangladesh,2015,WHO_UNICEF_UNFPA,50,,,,212,,,,Asia,World
+Bangladesh,2020,United Nations Population Division,50,71.4,73.4,69.6,,0.8,2.2,31.3,Asia,World
+Bangladesh,2020,WHO_UNICEF_UNFPA,50,,,,123,,,,Asia,World
+Bangladesh,2024,United Nations Population Division,50,74.9,76.7,73.3,,1.2,2.1,21.0,Asia,World
+Barbados,2010,United Nations Population Division,52,75.5,77.6,73.2,,0.3,1.8,14.4,North America,World
+Barbados,2010,WHO_UNICEF_UNFPA,52,,,,53,,,,North America,World
+Barbados,2015,United Nations Population Division,52,76.1,78.2,73.8,,0.2,1.7,13.3,North America,World
+Barbados,2015,WHO_UNICEF_UNFPA,52,,,,49,,,,North America,World
+Barbados,2020,United Nations Population Division,52,76.6,78.6,74.5,,0.2,1.7,11.6,North America,World
+Barbados,2020,WHO_UNICEF_UNFPA,52,,,,39,,,,North America,World
+Barbados,2024,United Nations Population Division,52,76.3,78.8,73.8,,0.1,1.7,12.3,North America,World
+Belarus,2010,United Nations Population Division,112,70.5,76.6,64.6,,-0.2,1.5,5.7,Europe,World
+Belarus,2010,WHO_UNICEF_UNFPA,112,,,,3,,,,Europe,World
+Belarus,2015,United Nations Population Division,112,73.8,78.8,68.5,,0.2,1.7,4.1,Europe,World
+Belarus,2015,WHO_UNICEF_UNFPA,112,,,,1,,,,Europe,World
+Belarus,2020,United Nations Population Division,112,72.3,77.4,67.1,,-1.1,1.4,2.9,Europe,World
+Belarus,2020,WHO_UNICEF_UNFPA,112,,,,1,,,,Europe,World
+Belarus,2024,United Nations Population Division,112,74.6,79.2,69.7,,-0.6,1.2,3.1,Europe,World
+Belgium,2010,United Nations Population Division,56,80.0,82.6,77.4,,1.2,1.8,4.4,Europe,World
+Belgium,2010,WHO_UNICEF_UNFPA,56,,,,6,,,,Europe,World
+Belgium,2015,United Nations Population Division,56,80.9,83.1,78.6,,0.7,1.7,3.9,Europe,World
+Belgium,2015,WHO_UNICEF_UNFPA,56,,,,5,,,,Europe,World
+Belgium,2020,United Nations Population Division,56,80.8,83.1,78.5,,0.3,1.6,3.6,Europe,World
+Belgium,2020,WHO_UNICEF_UNFPA,56,,,,5,,,,Europe,World
+Belgium,2024,United Nations Population Division,56,82.3,84.4,80.1,,0.2,1.4,3.4,Europe,World
+Belize,2010,United Nations Population Division,84,70.9,73.7,68.5,,2.2,2.6,18.6,North America,World
+Belize,2010,WHO_UNICEF_UNFPA,84,,,,33,,,,North America,World
+Belize,2015,United Nations Population Division,84,71.6,74.8,68.9,,2.1,2.4,15.6,North America,World
+Belize,2015,WHO_UNICEF_UNFPA,84,,,,49,,,,North America,World
+Belize,2020,United Nations Population Division,84,71.6,74.5,69.0,,1.3,2.0,12.9,North America,World
+Belize,2020,WHO_UNICEF_UNFPA,84,,,,130,,,,North America,World
+Belize,2024,United Nations Population Division,84,73.7,76.7,71.1,,1.4,2.0,10.5,North America,World
+Benin,2010,United Nations Population Division,204,58.4,59.3,57.5,,3.0,5.5,108.6,Africa,World
+Benin,2010,WHO_UNICEF_UNFPA,204,,,,598,,,,Africa,World
+Benin,2015,United Nations Population Division,204,59.1,60.1,58.1,,2.9,5.3,97.1,Africa,World
+Benin,2015,WHO_UNICEF_UNFPA,204,,,,591,,,,Africa,World
+Benin,2020,United Nations Population Division,204,60.2,61.6,58.7,,2.6,4.8,85.6,Africa,World
+Benin,2020,WHO_UNICEF_UNFPA,204,,,,523,,,,Africa,World
+Benin,2024,United Nations Population Division,204,61.0,62.4,59.5,,2.4,4.5,77.5,Africa,World
+Bermuda,2010,United Nations Population Division,60,79.4,83.8,75.3,,0.1,1.8,4.5,North America,World
+Bermuda,2015,United Nations Population Division,60,80.3,84.5,76.4,,-0.1,1.4,3.7,North America,World
+Bermuda,2024,United Nations Population Division,60,82.5,85.9,79.1,,-0.1,1.4,2.3,North America,World
+Bhutan,2010,United Nations Population Division,64,68.8,70.5,67.3,,1.1,2.3,40.3,Asia,World
+Bhutan,2010,WHO_UNICEF_UNFPA,64,,,,117,,,,Asia,World
+Bhutan,2015,United Nations Population Division,64,70.8,72.5,69.4,,1.0,1.8,30.6,Asia,World
+Bhutan,2015,WHO_UNICEF_UNFPA,64,,,,74,,,,Asia,World
+Bhutan,2020,United Nations Population Division,64,72.3,74.2,70.6,,0.7,1.5,25.1,Asia,World
+Bhutan,2020,WHO_UNICEF_UNFPA,64,,,,60,,,,Asia,World
+Bhutan,2024,United Nations Population Division,64,73.3,75.3,71.6,,0.6,1.4,21.5,Asia,World
+Bolivia (Plurin. State of),2010,United Nations Population Division,68,66.0,68.3,63.8,,1.6,3.2,61.7,South America,World
+Bolivia (Plurin. State of),2010,WHO_UNICEF_UNFPA,68,,,,184,,,,South America,World
+Bolivia (Plurin. State of),2015,United Nations Population Division,68,67.2,69.6,65.0,,1.5,2.9,51.4,South America,World
+Bolivia (Plurin. State of),2015,WHO_UNICEF_UNFPA,68,,,,165,,,,South America,World
+Bolivia (Plurin. State of),2020,United Nations Population Division,68,62.9,67.1,59.7,,1.1,2.7,45.7,South America,World
+Bolivia (Plurin. State of),2020,WHO_UNICEF_UNFPA,68,,,,161,,,,South America,World
+Bolivia (Plurin. State of),2024,United Nations Population Division,68,68.7,71.3,66.3,,1.4,2.5,40.4,South America,World
+"Bonaire, St. Eustatius & Saba",2010,United Nations Population Division,535,76.7,80.4,73.9,,3.6,1.7,14.2,North America,World
+"Bonaire, St. Eustatius & Saba",2015,United Nations Population Division,535,77.8,80.7,75.4,,-0.1,1.3,12.3,North America,World
+"Bonaire, St. Eustatius & Saba",2024,United Nations Population Division,535,77.6,80.3,75.4,,2.3,1.5,12.4,North America,World
+Bosnia and Herzegovina,2010,United Nations Population Division,70,76.8,80.2,72.9,,-1.8,1.3,6.8,Europe,World
+Bosnia and Herzegovina,2010,WHO_UNICEF_UNFPA,70,,,,8,,,,Europe,World
+Bosnia and Herzegovina,2015,United Nations Population Division,70,77.1,80.2,73.5,,-1.3,1.3,6.4,Europe,World
+Bosnia and Herzegovina,2015,WHO_UNICEF_UNFPA,70,,,,7,,,,Europe,World
+Bosnia and Herzegovina,2020,United Nations Population Division,70,76.0,79.4,72.5,,-1.5,1.5,6.4,Europe,World
+Bosnia and Herzegovina,2020,WHO_UNICEF_UNFPA,70,,,,6,,,,Europe,World
+Bosnia and Herzegovina,2024,United Nations Population Division,70,78.0,81.1,74.6,,-0.7,1.5,5.4,Europe,World
+Botswana,2010,United Nations Population Division,72,59.1,61.5,56.8,,2.1,3.1,58.4,Africa,World
+Botswana,2010,WHO_UNICEF_UNFPA,72,,,,156,,,,Africa,World
+Botswana,2015,United Nations Population Division,72,63.2,65.2,61.2,,1.4,3.0,48.8,Africa,World
+Botswana,2015,WHO_UNICEF_UNFPA,72,,,,184,,,,Africa,World
+Botswana,2020,United Nations Population Division,72,67.6,70.4,65.0,,1.4,2.9,41.2,Africa,World
+Botswana,2020,WHO_UNICEF_UNFPA,72,,,,186,,,,Africa,World
+Botswana,2024,United Nations Population Division,72,69.3,71.9,66.8,,1.6,2.7,36.8,Africa,World
+Brazil,2010,United Nations Population Division,76,73.8,77.3,70.4,,0.8,1.8,18.9,South America,World
+Brazil,2010,WHO_UNICEF_UNFPA,76,,,,64,,,,South America,World
+Brazil,2015,United Nations Population Division,76,75.1,78.5,71.8,,0.8,1.8,16.0,South America,World
+Brazil,2015,WHO_UNICEF_UNFPA,76,,,,62,,,,South America,World
+Brazil,2020,United Nations Population Division,76,74.5,77.6,71.5,,0.5,1.7,14.5,South America,World
+Brazil,2020,WHO_UNICEF_UNFPA,76,,,,72,,,,South America,World
+Brazil,2024,United Nations Population Division,76,76.0,79.1,73.0,,0.4,1.6,13.7,South America,World
+British Virgin Islands,2010,United Nations Population Division,92,76.3,79.1,73.7,,0.0,1.2,15.6,North America,World
+British Virgin Islands,2015,United Nations Population Division,92,76.6,79.4,73.9,,6.0,1.2,15.1,North America,World
+British Virgin Islands,2024,United Nations Population Division,92,77.4,80.2,74.7,,0.7,1.0,12.3,North America,World
+Brunei Darussalam,2010,United Nations Population Division,96,74.8,77.1,72.9,,1.9,1.9,9.7,Asia,World
+Brunei Darussalam,2010,WHO_UNICEF_UNFPA,96,,,,42,,,,Asia,World
+Brunei Darussalam,2015,United Nations Population Division,96,74.9,77.1,72.9,,1.3,1.9,9.9,Asia,World
+Brunei Darussalam,2015,WHO_UNICEF_UNFPA,96,,,,45,,,,Asia,World
+Brunei Darussalam,2020,United Nations Population Division,96,75.1,77.3,73.1,,1.0,1.8,9.8,Asia,World
+Brunei Darussalam,2020,WHO_UNICEF_UNFPA,96,,,,44,,,,Asia,World
+Brunei Darussalam,2024,United Nations Population Division,96,75.5,77.7,73.5,,0.8,1.7,9.3,Asia,World
+Bulgaria,2010,United Nations Population Division,100,73.8,77.4,70.4,,-0.7,1.6,10.9,Europe,World
+Bulgaria,2010,WHO_UNICEF_UNFPA,100,,,,10,,,,Europe,World
+Bulgaria,2015,United Nations Population Division,100,74.6,78.1,71.2,,-0.7,1.5,7.7,Europe,World
+Bulgaria,2015,WHO_UNICEF_UNFPA,100,,,,8,,,,Europe,World
+Bulgaria,2020,United Nations Population Division,100,73.6,77.5,70.0,,-0.5,1.6,6.0,Europe,World
+Bulgaria,2020,WHO_UNICEF_UNFPA,100,,,,7,,,,Europe,World
+Bulgaria,2024,United Nations Population Division,100,75.8,79.4,72.3,,-0.6,1.7,5.9,Europe,World
+Burkina Faso,2010,United Nations Population Division,854,56.3,57.8,54.8,,2.9,5.9,122.6,Africa,World
+Burkina Faso,2010,WHO_UNICEF_UNFPA,854,,,,357,,,,Africa,World
+Burkina Faso,2015,United Nations Population Division,854,58.8,60.4,57.1,,2.9,5.5,100.9,Africa,World
+Burkina Faso,2015,WHO_UNICEF_UNFPA,854,,,,295,,,,Africa,World
+Burkina Faso,2020,United Nations Population Division,854,60.5,62.3,58.5,,2.4,4.4,84.8,Africa,World
+Burkina Faso,2020,WHO_UNICEF_UNFPA,854,,,,264,,,,Africa,World
+Burkina Faso,2024,United Nations Population Division,854,61.3,63.4,59.1,,2.2,4.1,81.5,Africa,World
+Burundi,2010,United Nations Population Division,108,57.1,58.5,55.6,,3.8,6.3,91.0,Africa,World
+Burundi,2010,WHO_UNICEF_UNFPA,108,,,,608,,,,Africa,World
+Burundi,2015,United Nations Population Division,108,60.1,61.9,58.3,,1.2,5.7,68.7,Africa,World
+Burundi,2015,WHO_UNICEF_UNFPA,108,,,,514,,,,Africa,World
+Burundi,2020,United Nations Population Division,108,62.6,64.6,60.5,,2.8,5.2,54.7,Africa,World
+Burundi,2020,WHO_UNICEF_UNFPA,108,,,,494,,,,Africa,World
+Burundi,2024,United Nations Population Division,108,63.8,65.9,61.8,,2.5,4.8,47.9,Africa,World
+Cabo Verde,2010,United Nations Population Division,132,72.5,76.1,68.7,,0.5,2.3,24.7,Africa,World
+Cabo Verde,2010,WHO_UNICEF_UNFPA,132,,,,54,,,,Africa,World
+Cabo Verde,2015,United Nations Population Division,132,74.1,77.6,70.4,,0.0,2.0,18.6,Africa,World
+Cabo Verde,2015,WHO_UNICEF_UNFPA,132,,,,47,,,,Africa,World
+Cabo Verde,2020,United Nations Population Division,132,73.8,78.0,69.8,,0.1,1.6,13.6,Africa,World
+Cabo Verde,2020,WHO_UNICEF_UNFPA,132,,,,42,,,,Africa,World
+Cabo Verde,2024,United Nations Population Division,132,76.2,79.4,73.1,,0.5,1.5,11.6,Africa,World
+Cambodia,2010,United Nations Population Division,116,67.3,69.4,65.1,,1.5,2.9,44.0,Asia,World
+Cambodia,2010,WHO_UNICEF_UNFPA,116,,,,276,,,,Asia,World
+Cambodia,2015,United Nations Population Division,116,69.4,71.7,66.9,,1.4,2.7,31.9,Asia,World
+Cambodia,2015,WHO_UNICEF_UNFPA,116,,,,209,,,,Asia,World
+Cambodia,2020,United Nations Population Division,116,70.1,72.7,67.3,,1.6,2.7,25.6,Asia,World
+Cambodia,2020,WHO_UNICEF_UNFPA,116,,,,218,,,,Asia,World
+Cambodia,2024,United Nations Population Division,116,70.8,73.4,68.1,,1.2,2.5,22.2,Asia,World
+Cameroon,2010,United Nations Population Division,120,57.0,58.5,55.4,,2.9,5.2,109.9,Africa,World
+Cameroon,2010,WHO_UNICEF_UNFPA,120,,,,527,,,,Africa,World
+Cameroon,2015,United Nations Population Division,120,59.7,61.7,57.8,,3.0,4.8,89.8,Africa,World
+Cameroon,2015,WHO_UNICEF_UNFPA,120,,,,447,,,,Africa,World
+Cameroon,2020,United Nations Population Division,120,61.7,64.0,59.5,,2.7,4.6,74.8,Africa,World
+Cameroon,2020,WHO_UNICEF_UNFPA,120,,,,438,,,,Africa,World
+Cameroon,2024,United Nations Population Division,120,64.0,66.2,61.8,,2.6,4.3,65.8,Africa,World
+Canada,2010,United Nations Population Division,124,81.3,83.4,79.1,,1.1,1.6,5.8,North America,World
+Canada,2010,WHO_UNICEF_UNFPA,124,,,,12,,,,North America,World
+Canada,2015,United Nations Population Division,124,81.9,83.9,79.8,,0.9,1.6,5.3,North America,World
+Canada,2015,WHO_UNICEF_UNFPA,124,,,,12,,,,North America,World
+Canada,2020,United Nations Population Division,124,81.7,83.9,79.4,,0.8,1.4,5.1,North America,World
+Canada,2020,WHO_UNICEF_UNFPA,124,,,,11,,,,North America,World
+Canada,2024,United Nations Population Division,124,82.7,84.9,80.5,,1.0,1.3,4.7,North America,World
+Caribbean,2010,United Nations Population Division,29,65.5,67.3,63.8,,0.5,2.3,64.9,,
+Caribbean,2010,WHO_UNICEF_UNFPA,29,,,,191,,,,,
+Caribbean,2015,United Nations Population Division,29,72.5,75.4,69.6,,0.6,2.2,39.4,,
+Caribbean,2015,WHO_UNICEF_UNFPA,29,,,,192,,,,,
+Caribbean,2020,United Nations Population Division,29,72.3,75.7,69.0,,0.5,2.0,36.6,,
+Caribbean,2020,WHO_UNICEF_UNFPA,29,,,,188,,,,,
+Caribbean,2024,United Nations Population Division,29,73.3,76.5,70.1,,0.4,2.0,35.1,,
+Cayman Islands,2010,United Nations Population Division,136,76.1,78.7,73.6,,2.7,1.7,4.3,North America,World
+Cayman Islands,2015,United Nations Population Division,136,78.1,80.6,75.7,,2.4,1.3,2.9,North America,World
+Cayman Islands,2024,United Nations Population Division,136,80.5,83.0,78.2,,1.9,1.5,1.5,North America,World
+Central African Republic,2010,United Nations Population Division,140,46.9,49.4,44.5,,1.9,6.0,148.2,Africa,World
+Central African Republic,2010,WHO_UNICEF_UNFPA,140,,,,"1,052",,,,Africa,World
+Central African Republic,2015,United Nations Population Division,140,51.9,54.2,49.7,,1.7,6.1,123.5,Africa,World
+Central African Republic,2015,WHO_UNICEF_UNFPA,140,,,,909,,,,Africa,World
+Central African Republic,2020,United Nations Population Division,140,50.6,54.0,47.2,,2.6,6.1,122.1,Africa,World
+Central African Republic,2020,WHO_UNICEF_UNFPA,140,,,,835,,,,Africa,World
+Central African Republic,2024,United Nations Population Division,140,57.7,59.6,55.5,,3.4,6.0,92.6,Africa,World
+Central America,2010,United Nations Population Division,13,73.2,75.9,70.5,,1.5,2.5,21.4,,
+Central America,2010,WHO_UNICEF_UNFPA,13,,,,63,,,,,
+Central America,2015,United Nations Population Division,13,74.0,76.7,71.4,,1.1,2.3,18.1,,
+Central America,2015,WHO_UNICEF_UNFPA,13,,,,60,,,,,
+Central America,2020,United Nations Population Division,13,70.8,74.4,67.4,,0.9,2.1,15.2,,
+Central America,2020,WHO_UNICEF_UNFPA,13,,,,64,,,,,
+Central America,2024,United Nations Population Division,13,75.1,77.9,72.4,,1.0,2.0,13.7,,
+Central Asia,2010,United Nations Population Division,143,68.9,72.7,65.1,,1.6,2.7,31.1,,
+Central Asia,2010,WHO_UNICEF_UNFPA,143,,,,34,,,,,
+Central Asia,2015,United Nations Population Division,143,70.9,74.4,67.4,,1.8,2.8,23.4,,
+Central Asia,2015,WHO_UNICEF_UNFPA,143,,,,26,,,,,
+Central Asia,2020,United Nations Population Division,143,70.6,74.0,67.3,,1.9,3.1,19.1,,
+Central Asia,2020,WHO_UNICEF_UNFPA,143,,,,25,,,,,
+Central Asia,2024,United Nations Population Division,143,72.8,76.1,69.4,,1.7,3.2,16.6,,
+Chad,2010,United Nations Population Division,148,50.1,51.1,49.1,,3.5,7.0,147.7,Africa,World
+Chad,2010,WHO_UNICEF_UNFPA,148,,,,"1,303",,,,Africa,World
+Chad,2015,United Nations Population Division,148,51.3,52.5,50.1,,2.9,6.7,128.6,Africa,World
+Chad,2015,WHO_UNICEF_UNFPA,148,,,,"1,125",,,,Africa,World
+Chad,2020,United Nations Population Division,148,53.1,54.9,51.3,,3.4,6.3,110.0,Africa,World
+Chad,2020,WHO_UNICEF_UNFPA,148,,,,"1,063",,,,Africa,World
+Chad,2024,United Nations Population Division,148,55.2,57.2,53.4,,4.2,6.0,98.3,Africa,World
+Chile,2010,United Nations Population Division,152,79.1,81.5,76.6,,1.0,1.8,9.1,South America,World
+Chile,2010,WHO_UNICEF_UNFPA,152,,,,23,,,,South America,World
+Chile,2015,United Nations Population Division,152,80.0,82.3,77.7,,1.0,1.7,8.2,South America,World
+Chile,2015,WHO_UNICEF_UNFPA,152,,,,16,,,,South America,World
+Chile,2020,United Nations Population Division,152,79.3,82.0,76.8,,0.4,1.3,5.9,South America,World
+Chile,2020,WHO_UNICEF_UNFPA,152,,,,15,,,,South America,World
+Chile,2024,United Nations Population Division,152,81.4,83.2,79.5,,0.5,1.1,6.4,South America,World
+China,2010,United Nations Population Division,156,75.7,78.3,73.2,,0.7,1.7,15.9,Asia,World
+China,2010,WHO_UNICEF_UNFPA,156,,,,33,,,,Asia,World
+China,2015,United Nations Population Division,156,77.0,79.8,74.4,,0.5,1.7,10.8,Asia,World
+China,2015,WHO_UNICEF_UNFPA,156,,,,26,,,,Asia,World
+China,2020,United Nations Population Division,156,78.0,81.0,75.2,,0.1,1.2,7.6,Asia,World
+China,2020,WHO_UNICEF_UNFPA,156,,,,23,,,,Asia,World
+China,2024,United Nations Population Division,156,78.0,81.0,75.2,,-0.2,1.0,8.0,Asia,World
+"China, Hong Kong SAR",2010,United Nations Population Division,344,82.9,85.8,80.0,,0.5,1.1,3.2,Asia,World
+"China, Hong Kong SAR",2015,United Nations Population Division,344,84.1,87.0,81.3,,0.6,1.2,2.5,Asia,World
+"China, Hong Kong SAR",2024,United Nations Population Division,344,85.6,88.3,83.0,,-0.5,0.7,1.9,Asia,World
+"China, Macao SAR",2010,United Nations Population Division,446,81.7,84.3,78.9,,2.3,1.1,4.6,Asia,World
+"China, Macao SAR",2015,United Nations Population Division,446,82.9,85.6,80.3,,1.9,1.1,3.8,Asia,World
+"China, Macao SAR",2024,United Nations Population Division,446,83.2,85.4,81.0,,0.4,0.7,3.4,Asia,World
+Colombia,2010,United Nations Population Division,170,74.9,78.2,71.6,,1.1,2.0,18.5,South America,World
+Colombia,2010,WHO_UNICEF_UNFPA,170,,,,71,,,,South America,World
+Colombia,2015,United Nations Population Division,170,76.1,79.0,73.2,,0.9,1.8,15.6,South America,World
+Colombia,2015,WHO_UNICEF_UNFPA,170,,,,70,,,,South America,World
+Colombia,2020,United Nations Population Division,170,74.8,78.2,71.5,,1.2,1.7,13.2,South America,World
+Colombia,2020,WHO_UNICEF_UNFPA,170,,,,75,,,,South America,World
+Colombia,2024,United Nations Population Division,170,77.9,80.6,75.2,,1.0,1.6,11.7,South America,World
+Comoros,2010,United Nations Population Division,174,62.7,64.4,61.2,,2.0,4.8,72.4,Africa,World
+Comoros,2010,WHO_UNICEF_UNFPA,174,,,,316,,,,Africa,World
+Comoros,2015,United Nations Population Division,174,64.5,66.3,62.7,,2.1,4.4,61.2,Africa,World
+Comoros,2015,WHO_UNICEF_UNFPA,174,,,,261,,,,Africa,World
+Comoros,2020,United Nations Population Division,174,65.8,68.0,63.7,,2.0,4.1,51.5,Africa,World
+Comoros,2020,WHO_UNICEF_UNFPA,174,,,,217,,,,Africa,World
+Comoros,2024,United Nations Population Division,174,67.0,69.2,65.0,,1.9,3.8,44.8,Africa,World
+Congo,2010,United Nations Population Division,178,61.7,62.9,60.6,,3.3,4.9,63.6,Africa,World
+Congo,2010,WHO_UNICEF_UNFPA,178,,,,389,,,,Africa,World
+Congo,2015,United Nations Population Division,178,63.7,65.1,62.2,,2.4,4.6,51.8,Africa,World
+Congo,2015,WHO_UNICEF_UNFPA,178,,,,360,,,,Africa,World
+Congo,2020,United Nations Population Division,178,64.4,66.2,62.7,,2.4,4.3,43.4,Africa,World
+Congo,2020,WHO_UNICEF_UNFPA,178,,,,282,,,,Africa,World
+Congo,2024,United Nations Population Division,178,66.0,67.7,64.3,,2.4,4.1,38.7,Africa,World
+Cook Islands,2010,United Nations Population Division,184,72.8,77.0,69.2,,3.0,2.5,10.9,Oceania,World
+Cook Islands,2015,United Nations Population Division,184,74.0,78.0,70.6,,-0.6,2.2,8.8,Oceania,World
+Cook Islands,2024,United Nations Population Division,184,75.5,79.2,72.1,,-3.5,2.0,6.5,Oceania,World
+Costa Rica,2010,United Nations Population Division,188,79.4,82.0,76.6,,1.2,1.8,10.4,North America,World
+Costa Rica,2010,WHO_UNICEF_UNFPA,188,,,,27,,,,North America,World
+Costa Rica,2015,United Nations Population Division,188,80.4,83.3,77.5,,1.1,1.8,9.1,North America,World
+Costa Rica,2015,WHO_UNICEF_UNFPA,188,,,,20,,,,North America,World
+Costa Rica,2020,United Nations Population Division,188,79.7,82.8,76.8,,0.6,1.4,8.1,North America,World
+Costa Rica,2020,WHO_UNICEF_UNFPA,188,,,,22,,,,North America,World
+Costa Rica,2024,United Nations Population Division,188,81.0,83.6,78.4,,0.5,1.3,7.5,North America,World
+Croatia,2010,United Nations Population Division,191,76.7,80.0,73.2,,-0.3,1.6,5.5,Europe,World
+Croatia,2010,WHO_UNICEF_UNFPA,191,,,,7,,,,Europe,World
+Croatia,2015,United Nations Population Division,191,77.6,80.8,74.3,,-1.1,1.4,5.1,Europe,World
+Croatia,2015,WHO_UNICEF_UNFPA,191,,,,6,,,,Europe,World
+Croatia,2020,United Nations Population Division,191,77.5,80.7,74.3,,-0.8,1.5,4.7,Europe,World
+Croatia,2020,WHO_UNICEF_UNFPA,191,,,,5,,,,Europe,World
+Croatia,2024,United Nations Population Division,191,78.8,81.8,75.6,,-0.7,1.5,4.0,Europe,World
+Cuba,2010,United Nations Population Division,192,77.9,79.9,75.9,,0.0,1.7,6.3,North America,World
+Cuba,2010,WHO_UNICEF_UNFPA,192,,,,41,,,,North America,World
+Cuba,2015,United Nations Population Division,192,77.7,80.0,75.6,,0.0,1.7,6.3,North America,World
+Cuba,2015,WHO_UNICEF_UNFPA,192,,,,39,,,,North America,World
+Cuba,2020,United Nations Population Division,192,77.4,79.9,75.0,,-0.2,1.5,6.0,North America,World
+Cuba,2020,WHO_UNICEF_UNFPA,192,,,,39,,,,North America,World
+Cuba,2024,United Nations Population Division,192,78.3,80.7,75.9,,-0.4,1.4,5.6,North America,World
+Curaçao,2010,United Nations Population Division,531,75.1,78.4,71.6,,0.7,2.2,14.0,North America,World
+Curaçao,2015,United Nations Population Division,531,76.5,80.3,72.4,,0.8,1.9,11.6,North America,World
+Curaçao,2024,United Nations Population Division,531,77.0,81.0,72.7,,0.0,1.1,9.9,North America,World
+Cyprus,2010,United Nations Population Division,196,80.6,83.2,78.2,,1.6,1.4,3.5,Europe,World
+Cyprus,2010,WHO_UNICEF_UNFPA,196,,,,27,,,,Europe,World
+Cyprus,2015,United Nations Population Division,196,81.5,83.9,79.2,,1.4,1.3,3.1,Europe,World
+Cyprus,2015,WHO_UNICEF_UNFPA,196,,,,42,,,,Europe,World
+Cyprus,2020,United Nations Population Division,196,81.2,83.7,78.9,,1.2,1.4,3.3,Europe,World
+Cyprus,2020,WHO_UNICEF_UNFPA,196,,,,68,,,,Europe,World
+Cyprus,2024,United Nations Population Division,196,81.8,83.8,79.8,,0.9,1.4,2.9,Europe,World
+Czechia,2010,United Nations Population Division,203,77.6,80.7,74.4,,0.4,1.5,3.4,Europe,World
+Czechia,2010,WHO_UNICEF_UNFPA,203,,,,4,,,,Europe,World
+Czechia,2015,United Nations Population Division,203,78.6,81.5,75.6,,0.0,1.6,3.0,Europe,World
+Czechia,2015,WHO_UNICEF_UNFPA,203,,,,4,,,,Europe,World
+Czechia,2020,United Nations Population Division,203,78.2,81.3,75.2,,-0.1,1.8,2.8,Europe,World
+Czechia,2020,WHO_UNICEF_UNFPA,203,,,,3,,,,Europe,World
+Czechia,2024,United Nations Population Division,203,80.0,82.7,77.2,,-1.0,1.5,2.6,Europe,World
+Côte d’Ivoire,2010,United Nations Population Division,384,55.3,56.9,53.8,,2.2,5.3,102.8,Africa,World
+Côte d’Ivoire,2010,WHO_UNICEF_UNFPA,384,,,,604,,,,Africa,World
+Côte d’Ivoire,2015,United Nations Population Division,384,58.3,60.0,56.7,,2.9,5.0,86.7,Africa,World
+Côte d’Ivoire,2015,WHO_UNICEF_UNFPA,384,,,,530,,,,Africa,World
+Côte d’Ivoire,2020,United Nations Population Division,384,60.1,62.3,58.2,,2.5,4.5,73.8,Africa,World
+Côte d’Ivoire,2020,WHO_UNICEF_UNFPA,384,,,,480,,,,Africa,World
+Côte d’Ivoire,2024,United Nations Population Division,384,62.1,64.3,60.2,,2.4,4.2,66.3,Africa,World
+Dem. People's Rep. Korea,2010,United Nations Population Division,408,70.2,73.3,67.0,,0.4,1.9,28.7,Asia,World
+Dem. People's Rep. Korea,2010,WHO_UNICEF_UNFPA,408,,,,130,,,,Asia,World
+Dem. People's Rep. Korea,2015,United Nations Population Division,408,72.8,75.0,70.4,,0.5,1.9,21.4,Asia,World
+Dem. People's Rep. Korea,2015,WHO_UNICEF_UNFPA,408,,,,108,,,,Asia,World
+Dem. People's Rep. Korea,2020,United Nations Population Division,408,72.8,75.7,69.9,,0.4,1.8,17.5,Asia,World
+Dem. People's Rep. Korea,2020,WHO_UNICEF_UNFPA,408,,,,107,,,,Asia,World
+Dem. People's Rep. Korea,2024,United Nations Population Division,408,73.7,75.9,71.6,,0.3,1.8,16.7,Asia,World
+Dem. Rep. of the Congo,2010,United Nations Population Division,180,56.4,58.0,54.8,,3.2,6.6,113.9,Africa,World
+Dem. Rep. of the Congo,2010,WHO_UNICEF_UNFPA,180,,,,601,,,,Africa,World
+Dem. Rep. of the Congo,2015,United Nations Population Division,180,58.7,60.4,56.9,,3.3,6.4,95.7,Africa,World
+Dem. Rep. of the Congo,2015,WHO_UNICEF_UNFPA,180,,,,578,,,,Africa,World
+Dem. Rep. of the Congo,2020,United Nations Population Division,180,60.4,62.5,58.4,,3.3,6.2,80.8,Africa,World
+Dem. Rep. of the Congo,2020,WHO_UNICEF_UNFPA,180,,,,547,,,,Africa,World
+Dem. Rep. of the Congo,2024,United Nations Population Division,180,62.1,64.2,60.0,,3.2,6.0,72.4,Africa,World
+Denmark,2010,United Nations Population Division,208,79.2,81.3,77.1,,0.5,1.9,3.9,Europe,World
+Denmark,2010,WHO_UNICEF_UNFPA,208,,,,7,,,,Europe,World
+Denmark,2015,United Nations Population Division,208,80.7,82.7,78.8,,0.8,1.7,4.1,Europe,World
+Denmark,2015,WHO_UNICEF_UNFPA,208,,,,6,,,,Europe,World
+Denmark,2020,United Nations Population Division,208,81.5,83.5,79.6,,0.3,1.7,3.5,Europe,World
+Denmark,2020,WHO_UNICEF_UNFPA,208,,,,5,,,,Europe,World
+Denmark,2024,United Nations Population Division,208,82.1,84.0,80.2,,0.5,1.5,3.4,Europe,World
+Djibouti,2010,United Nations Population Division,262,60.7,63.1,58.5,,2.0,3.4,76.1,Africa,World
+Djibouti,2010,WHO_UNICEF_UNFPA,262,,,,274,,,,Africa,World
+Djibouti,2015,United Nations Population Division,262,62.8,65.3,60.4,,1.7,3.0,65.2,Africa,World
+Djibouti,2015,WHO_UNICEF_UNFPA,262,,,,244,,,,Africa,World
+Djibouti,2020,United Nations Population Division,262,64.2,66.8,61.7,,1.5,2.7,55.6,Africa,World
+Djibouti,2020,WHO_UNICEF_UNFPA,262,,,,234,,,,Africa,World
+Djibouti,2024,United Nations Population Division,262,66.2,68.7,63.7,,1.3,2.6,49.1,Africa,World
+Dominica,2010,United Nations Population Division,212,71.7,74.6,69.1,,-0.1,1.9,23.1,North America,World
+Dominica,2015,United Nations Population Division,212,70.0,72.4,67.8,,0.4,1.6,32.2,North America,World
+Dominica,2024,United Nations Population Division,212,71.3,74.7,68.4,,-0.4,1.5,31.7,North America,World
+Dominican Republic,2010,United Nations Population Division,214,72.0,75.7,68.6,,1.3,2.6,35.0,North America,World
+Dominican Republic,2010,WHO_UNICEF_UNFPA,214,,,,92,,,,North America,World
+Dominican Republic,2015,United Nations Population Division,214,73.0,76.4,69.7,,1.1,2.4,34.9,North America,World
+Dominican Republic,2015,WHO_UNICEF_UNFPA,214,,,,99,,,,North America,World
+Dominican Republic,2020,United Nations Population Division,214,72.6,76.7,68.9,,1.1,2.3,33.5,North America,World
+Dominican Republic,2020,WHO_UNICEF_UNFPA,214,,,,107,,,,North America,World
+Dominican Republic,2024,United Nations Population Division,214,73.9,77.1,70.7,,0.8,2.2,31.5,North America,World
+Eastern Africa,2010,United Nations Population Division,14,59.0,60.8,57.2,,2.9,5.2,82.4,,
+Eastern Africa,2010,WHO_UNICEF_UNFPA,14,,,,542,,,,,
+Eastern Africa,2015,United Nations Population Division,14,61.6,63.9,59.3,,2.6,4.7,69.5,,
+Eastern Africa,2015,WHO_UNICEF_UNFPA,14,,,,429,,,,,
+Eastern Africa,2020,United Nations Population Division,14,64.2,67.0,61.4,,2.7,4.3,54.9,,
+Eastern Africa,2020,WHO_UNICEF_UNFPA,14,,,,351,,,,,
+Eastern Africa,2024,United Nations Population Division,14,65.8,68.6,63.1,,2.5,4.0,48.5,,
+Eastern Asia,2010,United Nations Population Division,30,76.7,79.5,73.9,,0.6,1.7,15.1,,
+Eastern Asia,2010,WHO_UNICEF_UNFPA,30,,,,33,,,,,
+Eastern Asia,2015,United Nations Population Division,30,78.0,80.9,75.2,,0.5,1.6,10.4,,
+Eastern Asia,2015,WHO_UNICEF_UNFPA,30,,,,26,,,,,
+Eastern Asia,2020,United Nations Population Division,30,78.9,82.0,76.0,,0.1,1.2,7.4,,
+Eastern Asia,2020,WHO_UNICEF_UNFPA,30,,,,24,,,,,
+Eastern Asia,2024,United Nations Population Division,30,79.0,82.0,76.1,,-0.2,1.0,7.7,,
+Eastern Europe,2010,United Nations Population Division,151,70.6,75.9,65.5,,-0.1,1.5,10.3,,
+Eastern Europe,2010,WHO_UNICEF_UNFPA,151,,,,14,,,,,
+Eastern Europe,2015,United Nations Population Division,151,73.1,77.8,68.3,,0.0,1.6,7.6,,
+Eastern Europe,2015,WHO_UNICEF_UNFPA,151,,,,9,,,,,
+Eastern Europe,2020,United Nations Population Division,151,72.9,77.4,68.4,,-0.4,1.5,5.6,,
+Eastern Europe,2020,WHO_UNICEF_UNFPA,151,,,,11,,,,,
+Eastern Europe,2024,United Nations Population Division,151,74.9,79.8,70.0,,-0.2,1.4,5.1,,
+Ecuador,2010,United Nations Population Division,218,75.2,78.3,72.2,,1.7,2.6,18.9,South America,World
+Ecuador,2010,WHO_UNICEF_UNFPA,218,,,,76,,,,South America,World
+Ecuador,2015,United Nations Population Division,218,76.2,78.6,73.8,,1.4,2.2,15.4,South America,World
+Ecuador,2015,WHO_UNICEF_UNFPA,218,,,,66,,,,South America,World
+Ecuador,2020,United Nations Population Division,218,72.0,75.9,68.6,,0.8,2.0,13.0,South America,World
+Ecuador,2020,WHO_UNICEF_UNFPA,218,,,,66,,,,South America,World
+Ecuador,2024,United Nations Population Division,218,77.6,80.3,74.9,,0.9,1.8,12.1,South America,World
+Egypt,2010,United Nations Population Division,818,69.1,71.5,66.7,,1.9,3.3,28.7,Africa,World
+Egypt,2010,WHO_UNICEF_UNFPA,818,,,,38,,,,Africa,World
+Egypt,2015,United Nations Population Division,818,70.1,72.5,67.8,,2.0,3.5,23.4,Africa,World
+Egypt,2015,WHO_UNICEF_UNFPA,818,,,,24,,,,Africa,World
+Egypt,2020,United Nations Population Division,818,69.8,72.0,67.7,,1.6,2.9,19.4,Africa,World
+Egypt,2020,WHO_UNICEF_UNFPA,818,,,,17,,,,Africa,World
+Egypt,2024,United Nations Population Division,818,71.8,74.0,69.7,,1.6,2.7,16.2,Africa,World
+El Salvador,2010,United Nations Population Division,222,70.9,75.2,66.4,,0.3,2.2,19.3,North America,World
+El Salvador,2010,WHO_UNICEF_UNFPA,222,,,,36,,,,North America,World
+El Salvador,2015,United Nations Population Division,222,71.0,75.7,66.0,,0.3,2.1,15.4,North America,World
+El Salvador,2015,WHO_UNICEF_UNFPA,222,,,,44,,,,North America,World
+El Salvador,2020,United Nations Population Division,222,70.2,74.7,65.5,,0.4,1.8,12.8,North America,World
+El Salvador,2020,WHO_UNICEF_UNFPA,222,,,,43,,,,North America,World
+El Salvador,2024,United Nations Population Division,222,72.3,76.5,67.8,,0.4,1.8,11.3,North America,World
+Equatorial Guinea,2010,United Nations Population Division,226,58.3,59.8,56.9,,4.6,5.2,111.3,Africa,World
+Equatorial Guinea,2010,WHO_UNICEF_UNFPA,226,,,,211,,,,Africa,World
+Equatorial Guinea,2015,United Nations Population Division,226,60.6,62.3,59.1,,3.7,4.8,93.3,Africa,World
+Equatorial Guinea,2015,WHO_UNICEF_UNFPA,226,,,,201,,,,Africa,World
+Equatorial Guinea,2020,United Nations Population Division,226,62.1,64.2,60.3,,2.3,4.3,78.4,Africa,World
+Equatorial Guinea,2020,WHO_UNICEF_UNFPA,226,,,,212,,,,Africa,World
+Equatorial Guinea,2024,United Nations Population Division,226,63.9,65.9,62.2,,2.4,4.1,69.2,Africa,World
+Eritrea,2010,United Nations Population Division,232,63.7,65.5,61.8,,2.1,4.6,55.4,Africa,World
+Eritrea,2010,WHO_UNICEF_UNFPA,232,,,,480,,,,Africa,World
+Eritrea,2015,United Nations Population Division,232,65.9,67.9,63.9,,0.7,4.2,46.5,Africa,World
+Eritrea,2015,WHO_UNICEF_UNFPA,232,,,,399,,,,Africa,World
+Eritrea,2020,United Nations Population Division,232,67.0,69.3,64.6,,1.8,3.9,39.2,Africa,World
+Eritrea,2020,WHO_UNICEF_UNFPA,232,,,,322,,,,Africa,World
+Eritrea,2024,United Nations Population Division,232,68.9,70.9,66.8,,1.9,3.7,33.9,Africa,World
+Estonia,2010,United Nations Population Division,233,75.9,80.5,70.8,,-0.3,1.7,4.8,Europe,World
+Estonia,2010,WHO_UNICEF_UNFPA,233,,,,8,,,,Europe,World
+Estonia,2015,United Nations Population Division,233,77.7,81.8,73.1,,0.2,1.6,3.4,Europe,World
+Estonia,2015,WHO_UNICEF_UNFPA,233,,,,6,,,,Europe,World
+Estonia,2020,United Nations Population Division,233,78.9,82.9,74.5,,0.1,1.6,2.0,Europe,World
+Estonia,2020,WHO_UNICEF_UNFPA,233,,,,5,,,,Europe,World
+Estonia,2024,United Nations Population Division,233,79.3,83.2,75.1,,-1.0,1.4,2.3,Europe,World
+Eswatini,2010,United Nations Population Division,748,48.3,49.7,46.9,,0.6,3.4,85.9,Africa,World
+Eswatini,2010,WHO_UNICEF_UNFPA,748,,,,672,,,,Africa,World
+Eswatini,2015,United Nations Population Division,748,54.9,57.2,52.6,,0.6,3.1,64.0,Africa,World
+Eswatini,2015,WHO_UNICEF_UNFPA,748,,,,338,,,,Africa,World
+Eswatini,2020,United Nations Population Division,748,59.9,62.8,56.9,,1.2,2.9,54.7,Africa,World
+Eswatini,2020,WHO_UNICEF_UNFPA,748,,,,240,,,,Africa,World
+Eswatini,2024,United Nations Population Division,748,64.3,67.1,61.3,,1.0,2.7,48.8,Africa,World
+Ethiopia,2010,United Nations Population Division,231,59.7,62.0,57.5,,2.8,5.3,82.7,Africa,World
+Ethiopia,2010,WHO_UNICEF_UNFPA,231,,,,635,,,,Africa,World
+Ethiopia,2015,United Nations Population Division,231,63.6,66.4,61.0,,2.7,4.5,63.3,Africa,World
+Ethiopia,2015,WHO_UNICEF_UNFPA,231,,,,399,,,,Africa,World
+Ethiopia,2020,United Nations Population Division,231,66.0,69.4,62.8,,2.7,4.3,50.4,Africa,World
+Ethiopia,2020,WHO_UNICEF_UNFPA,231,,,,267,,,,Africa,World
+Ethiopia,2024,United Nations Population Division,231,67.6,71.0,64.4,,2.6,3.9,43.2,Africa,World
+Europe,2010,United Nations Population Division,150,76.2,80.0,72.4,,0.2,1.6,7.0,,
+Europe,2010,WHO_UNICEF_UNFPA,150,,,,10,,,,,
+Europe,2015,United Nations Population Division,150,77.8,81.1,74.3,,0.3,1.6,5.6,,
+Europe,2015,WHO_UNICEF_UNFPA,150,,,,8,,,,,
+Europe,2020,United Nations Population Division,150,77.7,80.9,74.3,,-0.1,1.5,4.5,,
+Europe,2020,WHO_UNICEF_UNFPA,150,,,,8,,,,,
+Europe,2024,United Nations Population Division,150,79.3,82.7,75.9,,-0.1,1.4,4.1,,
+Falkland Islands (Malvinas),2010,United Nations Population Division,238,77.7,79.8,75.9,,-0.5,1.6,12.4,South America,World
+Falkland Islands (Malvinas),2015,United Nations Population Division,238,78.4,80.2,76.7,,2.0,1.7,11.5,South America,World
+Falkland Islands (Malvinas),2024,United Nations Population Division,238,79.4,81.3,77.4,,0.0,1.7,10.4,South America,World
+Faroe Islands,2010,United Nations Population Division,234,78.7,81.4,76.4,,-1.3,2.5,8.6,Europe,World
+Faroe Islands,2015,United Nations Population Division,234,79.4,81.9,77.3,,1.2,2.4,8.2,Europe,World
+Faroe Islands,2024,United Nations Population Division,234,80.4,82.7,78.4,,1.2,2.2,7.0,Europe,World
+Fiji,2010,United Nations Population Division,242,66.8,68.9,64.8,,0.3,2.7,22.2,Oceania,World
+Fiji,2010,WHO_UNICEF_UNFPA,242,,,,42,,,,Oceania,World
+Fiji,2015,United Nations Population Division,242,66.5,69.0,64.2,,0.1,2.6,21.9,Oceania,World
+Fiji,2015,WHO_UNICEF_UNFPA,242,,,,39,,,,Oceania,World
+Fiji,2020,United Nations Population Division,242,66.9,69.3,64.7,,0.3,2.4,26.3,Oceania,World
+Fiji,2020,WHO_UNICEF_UNFPA,242,,,,38,,,,Oceania,World
+Fiji,2024,United Nations Population Division,242,67.5,69.5,65.5,,0.5,2.3,20.4,Oceania,World
+Finland,2010,United Nations Population Division,246,80.0,83.2,76.7,,0.4,1.9,2.9,Europe,World
+Finland,2010,WHO_UNICEF_UNFPA,246,,,,7,,,,Europe,World
+Finland,2015,United Nations Population Division,246,81.4,84.1,78.5,,0.3,1.6,2.1,Europe,World
+Finland,2015,WHO_UNICEF_UNFPA,246,,,,7,,,,Europe,World
+Finland,2020,United Nations Population Division,246,81.8,84.6,79.0,,0.2,1.4,2.3,Europe,World
+Finland,2020,WHO_UNICEF_UNFPA,246,,,,8,,,,Europe,World
+Finland,2024,United Nations Population Division,246,82.1,84.8,79.4,,0.2,1.3,2.3,Europe,World
+France,2010,United Nations Population Division,250,81.4,84.7,78.0,,0.5,2.0,4.3,Europe,World
+France,2010,WHO_UNICEF_UNFPA,250,,,,9,,,,Europe,World
+France,2015,United Nations Population Division,250,82.1,85.2,79.0,,0.3,1.9,4.3,Europe,World
+France,2015,WHO_UNICEF_UNFPA,250,,,,8,,,,Europe,World
+France,2020,United Nations Population Division,250,82.2,85.1,79.2,,0.3,1.8,4.0,Europe,World
+France,2020,WHO_UNICEF_UNFPA,250,,,,8,,,,Europe,World
+France,2024,United Nations Population Division,250,83.5,86.2,80.6,,0.2,1.6,3.8,Europe,World
+French Guiana,2010,United Nations Population Division,254,75.9,79.2,72.8,,1.8,3.4,13.8,South America,World
+French Guiana,2015,United Nations Population Division,254,76.6,79.2,74.1,,1.9,3.5,12.2,South America,World
+French Guiana,2024,United Nations Population Division,254,77.2,80.1,74.3,,1.7,3.3,11.1,South America,World
+French Polynesia,2010,United Nations Population Division,258,81.1,83.9,78.7,,0.4,2.2,8.5,Oceania,World
+French Polynesia,2015,United Nations Population Division,258,82.3,85.0,79.9,,0.5,1.9,7.4,Oceania,World
+French Polynesia,2024,United Nations Population Division,258,84.2,86.6,81.9,,0.2,1.5,6.0,Oceania,World
+Gabon,2010,United Nations Population Division,266,64.7,66.8,62.8,,3.5,4.2,61.6,Africa,World
+Gabon,2010,WHO_UNICEF_UNFPA,266,,,,193,,,,Africa,World
+Gabon,2015,United Nations Population Division,266,66.3,68.7,64.2,,3.0,3.9,49.5,Africa,World
+Gabon,2015,WHO_UNICEF_UNFPA,266,,,,212,,,,Africa,World
+Gabon,2020,United Nations Population Division,266,67.1,69.7,64.7,,2.3,3.8,41.2,Africa,World
+Gabon,2020,WHO_UNICEF_UNFPA,266,,,,227,,,,Africa,World
+Gabon,2024,United Nations Population Division,266,68.5,71.2,66.1,,2.1,3.6,36.3,Africa,World
+Gambia,2010,United Nations Population Division,270,61.2,62.4,59.9,,2.9,5.6,73.5,Africa,World
+Gambia,2010,WHO_UNICEF_UNFPA,270,,,,620,,,,Africa,World
+Gambia,2015,United Nations Population Division,270,63.0,64.3,61.7,,2.7,5.0,59.6,Africa,World
+Gambia,2015,WHO_UNICEF_UNFPA,270,,,,535,,,,Africa,World
+Gambia,2020,United Nations Population Division,270,64.4,66.1,62.7,,2.4,4.2,49.0,Africa,World
+Gambia,2020,WHO_UNICEF_UNFPA,270,,,,458,,,,Africa,World
+Gambia,2024,United Nations Population Division,270,66.1,67.8,64.4,,2.3,3.9,43.1,Africa,World
+Georgia,2010,United Nations Population Division,268,71.7,76.4,66.9,,-0.7,2.0,14.5,Asia,World
+Georgia,2010,WHO_UNICEF_UNFPA,268,,,,41,,,,Asia,World
+Georgia,2015,United Nations Population Division,268,73.2,77.9,68.5,,0.0,2.2,10.7,Asia,World
+Georgia,2015,WHO_UNICEF_UNFPA,268,,,,30,,,,Asia,World
+Georgia,2020,United Nations Population Division,268,73.5,78.3,68.6,,-0.1,2.0,9.6,Asia,World
+Georgia,2020,WHO_UNICEF_UNFPA,268,,,,28,,,,Asia,World
+Georgia,2024,United Nations Population Division,268,74.7,79.2,69.7,,0.0,1.8,7.7,Asia,World
+Germany,2010,United Nations Population Division,276,80.1,82.6,77.4,,-0.1,1.4,4.2,Europe,World
+Germany,2010,WHO_UNICEF_UNFPA,276,,,,6,,,,Europe,World
+Germany,2015,United Nations Population Division,276,80.6,83.0,78.1,,1.2,1.5,3.9,Europe,World
+Germany,2015,WHO_UNICEF_UNFPA,276,,,,5,,,,Europe,World
+Germany,2020,United Nations Population Division,276,81.0,83.4,78.6,,0.0,1.5,3.6,Europe,World
+Germany,2020,WHO_UNICEF_UNFPA,276,,,,4,,,,Europe,World
+Germany,2024,United Nations Population Division,276,81.5,83.9,79.2,,-0.3,1.4,3.4,Europe,World
+Ghana,2010,United Nations Population Division,288,61.3,62.8,59.8,,2.4,4.2,69.4,Africa,World
+Ghana,2010,WHO_UNICEF_UNFPA,288,,,,337,,,,Africa,World
+Ghana,2015,United Nations Population Division,288,63.2,65.1,61.3,,2.3,4.0,55.5,Africa,World
+Ghana,2015,WHO_UNICEF_UNFPA,288,,,,286,,,,Africa,World
+Ghana,2020,United Nations Population Division,288,64.3,66.7,62.0,,2.0,3.5,45.5,Africa,World
+Ghana,2020,WHO_UNICEF_UNFPA,288,,,,263,,,,Africa,World
+Ghana,2024,United Nations Population Division,288,65.7,68.2,63.3,,1.9,3.3,40.1,Africa,World
+Gibraltar,2010,United Nations Population Division,292,82.1,84.6,79.4,,1.4,2.0,12.3,Europe,World
+Gibraltar,2015,United Nations Population Division,292,82.7,85.3,79.9,,1.1,2.1,11.6,Europe,World
+Gibraltar,2024,United Nations Population Division,292,83.6,86.2,81.0,,2.1,1.9,10.4,Europe,World
+Greece,2010,United Nations Population Division,300,80.6,83.4,77.7,,0.1,1.5,4.1,Europe,World
+Greece,2010,WHO_UNICEF_UNFPA,300,,,,3,,,,Europe,World
+Greece,2015,United Nations Population Division,300,80.8,83.6,77.9,,-0.7,1.3,4.2,Europe,World
+Greece,2015,WHO_UNICEF_UNFPA,300,,,,5,,,,Europe,World
+Greece,2020,United Nations Population Division,300,81.5,84.3,78.8,,-0.3,1.4,3.8,Europe,World
+Greece,2020,WHO_UNICEF_UNFPA,300,,,,8,,,,Europe,World
+Greece,2024,United Nations Population Division,300,82.0,84.5,79.5,,-1.8,1.3,3.4,Europe,World
+Greenland,2010,United Nations Population Division,304,68.5,71.2,66.2,,0.6,2.2,11.9,North America,World
+Greenland,2015,United Nations Population Division,304,70.2,72.4,68.4,,0.1,2.1,11.1,North America,World
+Greenland,2024,United Nations Population Division,304,70.2,72.6,68.2,,-0.2,1.9,11.4,North America,World
+Grenada,2010,United Nations Population Division,308,74.7,77.5,72.2,,0.3,2.0,14.5,North America,World
+Grenada,2010,WHO_UNICEF_UNFPA,308,,,,27,,,,North America,World
+Grenada,2015,United Nations Population Division,308,75.0,78.0,72.4,,0.4,1.7,15.1,North America,World
+Grenada,2015,WHO_UNICEF_UNFPA,308,,,,23,,,,North America,World
+Grenada,2020,United Nations Population Division,308,75.0,78.2,72.2,,0.4,1.5,15.8,North America,World
+Grenada,2020,WHO_UNICEF_UNFPA,308,,,,21,,,,North America,World
+Grenada,2024,United Nations Population Division,308,75.4,78.5,72.5,,0.1,1.5,14.4,North America,World
+Guadeloupe,2010,United Nations Population Division,312,80.1,83.8,76.2,,0.0,2.1,9.6,North America,World
+Guadeloupe,2015,United Nations Population Division,312,81.3,85.2,77.0,,-0.8,2.2,9.0,North America,World
+Guadeloupe,2024,United Nations Population Division,312,82.2,85.7,78.4,,-0.3,2.1,8.0,North America,World
+Guam,2010,United Nations Population Division,316,76.1,79.8,72.8,,0.1,3.0,12.6,Oceania,World
+Guam,2015,United Nations Population Division,316,76.4,80.7,72.7,,-0.4,2.9,13.3,Oceania,World
+Guam,2024,United Nations Population Division,316,77.4,81.6,73.7,,0.7,2.7,11.8,Oceania,World
+Guatemala,2010,United Nations Population Division,320,69.9,72.8,67.0,,2.0,3.4,34.9,North America,World
+Guatemala,2010,WHO_UNICEF_UNFPA,320,,,,123,,,,North America,World
+Guatemala,2015,United Nations Population Division,320,70.9,73.6,68.3,,1.8,3.0,28.6,North America,World
+Guatemala,2015,WHO_UNICEF_UNFPA,320,,,,107,,,,North America,World
+Guatemala,2020,United Nations Population Division,320,70.0,73.2,67.0,,1.5,2.5,23.7,North America,World
+Guatemala,2020,WHO_UNICEF_UNFPA,320,,,,96,,,,North America,World
+Guatemala,2024,United Nations Population Division,320,72.7,75.0,70.4,,1.5,2.3,21.2,North America,World
+Guernsey,2010,United Nations Population Division,831,82.3,84.3,80.2,,0.2,1.6,7.6,Europe,World
+Guernsey,2015,United Nations Population Division,831,82.7,84.6,80.8,,0.1,1.5,7.2,Europe,World
+Guernsey,2024,United Nations Population Division,831,83.4,85.6,81.2,,0.3,1.4,6.6,Europe,World
+Guinea,2010,United Nations Population Division,324,56.4,57.6,55.2,,2.5,5.4,122.3,Africa,World
+Guinea,2010,WHO_UNICEF_UNFPA,324,,,,741,,,,Africa,World
+Guinea,2015,United Nations Population Division,324,57.9,59.1,56.6,,2.6,5.0,112.3,Africa,World
+Guinea,2015,WHO_UNICEF_UNFPA,324,,,,649,,,,Africa,World
+Guinea,2020,United Nations Population Division,324,59.3,60.7,58.0,,2.5,4.5,100.3,Africa,World
+Guinea,2020,WHO_UNICEF_UNFPA,324,,,,553,,,,Africa,World
+Guinea,2024,United Nations Population Division,324,60.9,62.1,59.7,,2.3,4.1,92.0,Africa,World
+Guinea-Bissau,2010,United Nations Population Division,624,57.0,58.9,55.0,,2.6,5.1,114.4,Africa,World
+Guinea-Bissau,2010,WHO_UNICEF_UNFPA,624,,,,795,,,,Africa,World
+Guinea-Bissau,2015,United Nations Population Division,624,60.1,62.1,57.9,,2.5,4.7,92.2,Africa,World
+Guinea-Bissau,2015,WHO_UNICEF_UNFPA,624,,,,713,,,,Africa,World
+Guinea-Bissau,2020,United Nations Population Division,624,61.3,63.7,58.9,,2.3,4.1,77.0,Africa,World
+Guinea-Bissau,2020,WHO_UNICEF_UNFPA,624,,,,725,,,,Africa,World
+Guinea-Bissau,2024,United Nations Population Division,624,64.3,66.5,61.8,,2.2,3.8,68.2,Africa,World
+Guyana,2010,United Nations Population Division,328,66.2,69.7,63.1,,-0.4,2.7,37.3,South America,World
+Guyana,2010,WHO_UNICEF_UNFPA,328,,,,148,,,,South America,World
+Guyana,2015,United Nations Population Division,328,67.7,71.5,64.2,,0.6,2.7,33.0,South America,World
+Guyana,2015,WHO_UNICEF_UNFPA,328,,,,128,,,,South America,World
+Guyana,2020,United Nations Population Division,328,67.8,71.9,64.0,,1.1,2.5,28.3,South America,World
+Guyana,2020,WHO_UNICEF_UNFPA,328,,,,112,,,,South America,World
+Guyana,2024,United Nations Population Division,328,70.3,74.1,66.6,,0.6,2.4,22.2,South America,World
+Haiti,2010,United Nations Population Division,332,45.6,45.7,45.4,,0.7,3.5,141.1,North America,World
+Haiti,2010,WHO_UNICEF_UNFPA,332,,,,403,,,,North America,World
+Haiti,2015,United Nations Population Division,332,63.2,65.9,60.6,,1.4,3.1,69.9,North America,World
+Haiti,2015,WHO_UNICEF_UNFPA,332,,,,391,,,,North America,World
+Haiti,2020,United Nations Population Division,332,63.8,67.0,60.7,,1.2,2.8,60.2,North America,World
+Haiti,2020,WHO_UNICEF_UNFPA,332,,,,350,,,,North America,World
+Haiti,2024,United Nations Population Division,332,65.1,68.5,61.9,,1.1,2.6,56.8,North America,World
+Honduras,2010,United Nations Population Division,340,69.8,72.1,67.6,,2.1,3.1,25.1,North America,World
+Honduras,2010,WHO_UNICEF_UNFPA,340,,,,73,,,,North America,World
+Honduras,2015,United Nations Population Division,340,71.3,73.8,69.0,,1.9,2.7,20.5,North America,World
+Honduras,2015,WHO_UNICEF_UNFPA,340,,,,67,,,,North America,World
+Honduras,2020,United Nations Population Division,340,70.9,73.8,68.2,,1.7,2.6,17.3,North America,World
+Honduras,2020,WHO_UNICEF_UNFPA,340,,,,72,,,,North America,World
+Honduras,2024,United Nations Population Division,340,73.0,75.7,70.5,,1.7,2.5,15.0,North America,World
+Hungary,2010,United Nations Population Division,348,74.5,78.3,70.6,,-0.3,1.3,6.0,Europe,World
+Hungary,2010,WHO_UNICEF_UNFPA,348,,,,15,,,,Europe,World
+Hungary,2015,United Nations Population Division,348,75.7,78.9,72.2,,-0.3,1.4,5.1,Europe,World
+Hungary,2015,WHO_UNICEF_UNFPA,348,,,,15,,,,Europe,World
+Hungary,2020,United Nations Population Division,348,75.7,79.0,72.3,,-0.4,1.6,4.0,Europe,World
+Hungary,2020,WHO_UNICEF_UNFPA,348,,,,15,,,,Europe,World
+Hungary,2024,United Nations Population Division,348,77.2,80.3,73.9,,-0.3,1.5,3.6,Europe,World
+Iceland,2010,United Nations Population Division,352,81.6,83.7,79.6,,0.3,2.2,3.4,Europe,World
+Iceland,2010,WHO_UNICEF_UNFPA,352,,,,3,,,,Europe,World
+Iceland,2015,United Nations Population Division,352,82.2,83.4,80.9,,1.0,1.8,3.3,Europe,World
+Iceland,2015,WHO_UNICEF_UNFPA,352,,,,3,,,,Europe,World
+Iceland,2020,United Nations Population Division,352,82.7,84.2,81.2,,1.3,1.7,3.4,Europe,World
+Iceland,2020,WHO_UNICEF_UNFPA,352,,,,3,,,,Europe,World
+Iceland,2024,United Nations Population Division,352,83.0,84.5,81.6,,1.4,1.5,1.6,Europe,World
+India,2010,United Nations Population Division,356,67.2,68.8,65.6,,1.4,2.6,57.8,Asia,World
+India,2010,WHO_UNICEF_UNFPA,356,,,,179,,,,Asia,World
+India,2015,United Nations Population Division,356,69.3,70.9,67.8,,1.2,2.3,43.5,Asia,World
+India,2015,WHO_UNICEF_UNFPA,356,,,,128,,,,Asia,World
+India,2020,United Nations Population Division,356,70.2,71.9,68.5,,0.9,2.0,32.6,Asia,World
+India,2020,WHO_UNICEF_UNFPA,356,,,,103,,,,Asia,World
+India,2024,United Nations Population Division,356,72.2,73.9,70.7,,0.9,2.0,28.2,Asia,World
+Indonesia,2010,United Nations Population Division,360,68.4,70.2,66.6,,1.3,2.5,33.7,Asia,World
+Indonesia,2010,WHO_UNICEF_UNFPA,360,,,,219,,,,Asia,World
+Indonesia,2015,United Nations Population Division,360,69.5,71.5,67.6,,1.1,2.3,27.5,Asia,World
+Indonesia,2015,WHO_UNICEF_UNFPA,360,,,,194,,,,Asia,World
+Indonesia,2020,United Nations Population Division,360,68.8,71.1,66.6,,0.8,2.2,22.8,Asia,World
+Indonesia,2020,WHO_UNICEF_UNFPA,360,,,,173,,,,Asia,World
+Indonesia,2024,United Nations Population Division,360,71.3,73.4,69.2,,0.8,2.1,19.9,Asia,World
+Iran (Islamic Republic of),2010,United Nations Population Division,364,74.4,76.4,72.5,,1.3,1.7,19.5,Asia,World
+Iran (Islamic Republic of),2010,WHO_UNICEF_UNFPA,364,,,,32,,,,Asia,World
+Iran (Islamic Republic of),2015,United Nations Population Division,364,75.9,77.8,74.1,,1.4,2.0,15.5,Asia,World
+Iran (Islamic Republic of),2015,WHO_UNICEF_UNFPA,364,,,,20,,,,Asia,World
+Iran (Islamic Republic of),2020,United Nations Population Division,364,74.1,76.2,72.2,,0.6,1.7,13.1,Asia,World
+Iran (Islamic Republic of),2020,WHO_UNICEF_UNFPA,364,,,,22,,,,Asia,World
+Iran (Islamic Republic of),2024,United Nations Population Division,364,77.9,79.8,76.0,,1.0,1.7,10.9,Asia,World
+Iraq,2010,United Nations Population Division,368,68.1,70.2,65.8,,3.2,4.5,35.0,Asia,World
+Iraq,2010,WHO_UNICEF_UNFPA,368,,,,115,,,,Asia,World
+Iraq,2015,United Nations Population Division,368,70.0,72.0,67.8,,2.6,4.1,29.8,Asia,World
+Iraq,2015,WHO_UNICEF_UNFPA,368,,,,102,,,,Asia,World
+Iraq,2020,United Nations Population Division,368,69.7,72.3,67.0,,2.3,3.4,25.7,Asia,World
+Iraq,2020,WHO_UNICEF_UNFPA,368,,,,76,,,,Asia,World
+Iraq,2024,United Nations Population Division,368,72.4,74.2,70.5,,2.1,3.2,22.4,Asia,World
+Ireland,2010,United Nations Population Division,372,80.6,82.8,78.3,,0.5,2.1,4.3,Europe,World
+Ireland,2010,WHO_UNICEF_UNFPA,372,,,,7,,,,Europe,World
+Ireland,2015,United Nations Population Division,372,81.5,83.4,79.6,,1.1,1.9,4.0,Europe,World
+Ireland,2015,WHO_UNICEF_UNFPA,372,,,,6,,,,Europe,World
+Ireland,2020,United Nations Population Division,372,82.4,84.2,80.6,,0.8,1.7,3.2,Europe,World
+Ireland,2020,WHO_UNICEF_UNFPA,372,,,,5,,,,Europe,World
+Ireland,2024,United Nations Population Division,372,82.6,84.6,80.6,,1.1,1.6,3.2,Europe,World
+Isle of Man,2010,United Nations Population Division,833,79.6,81.2,78.0,,1.1,1.9,15.5,Europe,World
+Isle of Man,2015,United Nations Population Division,833,80.3,81.9,78.6,,-0.4,1.7,14.6,Europe,World
+Isle of Man,2024,United Nations Population Division,833,81.1,83.2,79.0,,0.0,1.5,13.4,Europe,World
+Israel,2010,United Nations Population Division,376,82.0,83.8,80.0,,1.9,3.0,4.6,Asia,World
+Israel,2010,WHO_UNICEF_UNFPA,376,,,,3,,,,Asia,World
+Israel,2015,United Nations Population Division,376,82.3,84.2,80.2,,2.0,3.1,3.8,Asia,World
+Israel,2015,WHO_UNICEF_UNFPA,376,,,,3,,,,Asia,World
+Israel,2020,United Nations Population Division,376,82.7,84.7,80.6,,1.6,2.9,2.8,Asia,World
+Israel,2020,WHO_UNICEF_UNFPA,376,,,,3,,,,Asia,World
+Israel,2024,United Nations Population Division,376,82.7,84.7,80.7,,1.4,2.8,3.7,Asia,World
+Italy,2010,United Nations Population Division,380,82.1,84.5,79.5,,0.4,1.4,3.7,Europe,World
+Italy,2010,WHO_UNICEF_UNFPA,380,,,,7,,,,Europe,World
+Italy,2015,United Nations Population Division,380,82.5,84.7,80.2,,-0.2,1.3,3.4,Europe,World
+Italy,2015,WHO_UNICEF_UNFPA,380,,,,7,,,,Europe,World
+Italy,2020,United Nations Population Division,380,82.2,84.5,79.8,,-0.4,1.2,2.9,Europe,World
+Italy,2020,WHO_UNICEF_UNFPA,380,,,,5,,,,Europe,World
+Italy,2024,United Nations Population Division,380,83.9,85.9,81.8,,-0.3,1.2,2.6,Europe,World
+Jamaica,2010,United Nations Population Division,388,72.0,74.4,69.6,,0.4,1.8,19.1,North America,World
+Jamaica,2010,WHO_UNICEF_UNFPA,388,,,,88,,,,North America,World
+Jamaica,2015,United Nations Population Division,388,72.2,74.3,70.1,,0.3,1.5,18.7,North America,World
+Jamaica,2015,WHO_UNICEF_UNFPA,388,,,,97,,,,North America,World
+Jamaica,2020,United Nations Population Division,388,71.5,74.0,68.9,,0.4,1.4,19.2,North America,World
+Jamaica,2020,WHO_UNICEF_UNFPA,388,,,,99,,,,North America,World
+Jamaica,2024,United Nations Population Division,388,71.6,74.1,69.1,,0.0,1.4,18.9,North America,World
+Japan,2010,United Nations Population Division,392,82.9,86.2,79.5,,0.0,1.4,3.2,Asia,World
+Japan,2010,WHO_UNICEF_UNFPA,392,,,,6,,,,Asia,World
+Japan,2015,United Nations Population Division,392,83.9,87.0,80.7,,-0.1,1.4,2.7,Asia,World
+Japan,2015,WHO_UNICEF_UNFPA,392,,,,5,,,,Asia,World
+Japan,2020,United Nations Population Division,392,84.7,87.7,81.6,,-0.4,1.3,2.3,Asia,World
+Japan,2020,WHO_UNICEF_UNFPA,392,,,,4,,,,Asia,World
+Japan,2024,United Nations Population Division,392,84.9,87.9,81.8,,-0.5,1.2,2.3,Asia,World
+Jersey,2010,United Nations Population Division,832,80.5,82.9,78.2,,1.0,1.6,9.2,Europe,World
+Jersey,2015,United Nations Population Division,832,80.5,83.0,78.2,,0.5,1.5,9.1,Europe,World
+Jersey,2024,United Nations Population Division,832,79.8,81.9,77.9,,0.2,1.4,9.8,Europe,World
+Jordan,2010,United Nations Population Division,400,73.8,76.0,71.9,,2.5,3.8,20.2,Asia,World
+Jordan,2010,WHO_UNICEF_UNFPA,400,,,,47,,,,Asia,World
+Jordan,2015,United Nations Population Division,400,75.1,77.3,73.1,,7.2,3.1,17.5,Asia,World
+Jordan,2015,WHO_UNICEF_UNFPA,400,,,,46,,,,Asia,World
+Jordan,2020,United Nations Population Division,400,75.6,78.3,73.4,,1.9,2.8,15.1,Asia,World
+Jordan,2020,WHO_UNICEF_UNFPA,400,,,,41,,,,Asia,World
+Jordan,2024,United Nations Population Division,400,78.0,80.3,75.9,,0.4,2.6,13.3,Asia,World
+Kazakhstan,2010,United Nations Population Division,398,68.3,73.8,62.8,,1.3,2.6,20.2,Asia,World
+Kazakhstan,2010,WHO_UNICEF_UNFPA,398,,,,20,,,,Asia,World
+Kazakhstan,2015,United Nations Population Division,398,72.0,76.5,67.2,,1.5,2.8,12.4,Asia,World
+Kazakhstan,2015,WHO_UNICEF_UNFPA,398,,,,13,,,,Asia,World
+Kazakhstan,2020,United Nations Population Division,398,71.2,75.5,66.8,,1.4,3.1,10.1,Asia,World
+Kazakhstan,2020,WHO_UNICEF_UNFPA,398,,,,13,,,,Asia,World
+Kazakhstan,2024,United Nations Population Division,398,74.5,78.5,70.3,,1.2,3.0,7.9,Asia,World
+Kenya,2010,United Nations Population Division,404,60.9,62.6,59.2,,2.8,4.4,54.3,Africa,World
+Kenya,2010,WHO_UNICEF_UNFPA,404,,,,476,,,,Africa,World
+Kenya,2015,United Nations Population Division,404,62.3,64.3,60.3,,2.2,3.8,47.1,Africa,World
+Kenya,2015,WHO_UNICEF_UNFPA,404,,,,483,,,,Africa,World
+Kenya,2020,United Nations Population Division,404,61.6,64.2,59.1,,2.0,3.4,48.3,Africa,World
+Kenya,2020,WHO_UNICEF_UNFPA,404,,,,530,,,,Africa,World
+Kenya,2024,United Nations Population Division,404,63.8,66.1,61.6,,1.9,3.2,40.1,Africa,World
+Kiribati,2010,United Nations Population Division,296,65.9,67.4,64.1,,2.0,3.9,58.5,Oceania,World
+Kiribati,2010,WHO_UNICEF_UNFPA,296,,,,131,,,,Oceania,World
+Kiribati,2015,United Nations Population Division,296,65.8,67.4,64.0,,1.3,3.4,58.8,Oceania,World
+Kiribati,2015,WHO_UNICEF_UNFPA,296,,,,121,,,,Oceania,World
+Kiribati,2020,United Nations Population Division,296,65.2,67.1,63.1,,2.0,3.3,57.9,Oceania,World
+Kiribati,2020,WHO_UNICEF_UNFPA,296,,,,76,,,,Oceania,World
+Kiribati,2024,United Nations Population Division,296,66.6,68.3,64.7,,1.5,3.1,53.9,Oceania,World
+Kosovo,2010,United Nations Population Division,412,74.6,76.9,72.3,,-0.3,2.2,20.2,Europe,World
+Kosovo,2015,United Nations Population Division,412,76.0,78.3,73.7,,-2.2,1.8,14.3,Europe,World
+Kosovo,2024,United Nations Population Division,412,78.2,80.3,76.0,,-0.7,1.5,10.0,Europe,World
+Kuwait,2010,United Nations Population Division,414,77.5,79.5,76.0,,5.1,2.0,10.5,Asia,World
+Kuwait,2010,WHO_UNICEF_UNFPA,414,,,,9,,,,Asia,World
+Kuwait,2015,United Nations Population Division,414,79.2,80.7,78.1,,4.7,2.0,9.4,Asia,World
+Kuwait,2015,WHO_UNICEF_UNFPA,414,,,,7,,,,Asia,World
+Kuwait,2020,United Nations Population Division,414,78.2,79.9,77.3,,-2.9,2.1,8.7,Asia,World
+Kuwait,2020,WHO_UNICEF_UNFPA,414,,,,7,,,,Asia,World
+Kuwait,2024,United Nations Population Division,414,80.6,82.0,79.4,,2.0,1.5,7.6,Asia,World
+Kyrgyzstan,2010,United Nations Population Division,417,67.5,71.7,63.5,,1.9,3.1,29.7,Asia,World
+Kyrgyzstan,2010,WHO_UNICEF_UNFPA,417,,,,72,,,,Asia,World
+Kyrgyzstan,2015,United Nations Population Division,417,69.3,73.4,65.8,,1.8,3.2,22.2,Asia,World
+Kyrgyzstan,2015,WHO_UNICEF_UNFPA,417,,,,61,,,,Asia,World
+Kyrgyzstan,2020,United Nations Population Division,417,69.1,72.7,65.9,,2.5,3.1,18.2,Asia,World
+Kyrgyzstan,2020,WHO_UNICEF_UNFPA,417,,,,50,,,,Asia,World
+Kyrgyzstan,2024,United Nations Population Division,417,71.8,75.4,68.3,,1.5,2.8,14.6,Asia,World
+LDC§,2010,United Nations Population Division,199,60.6,62.3,58.8,,2.3,4.6,88.9,,
+LDC§,2010,WHO_UNICEF_UNFPA,199,,,,524,,,,,
+LDC§,2015,United Nations Population Division,199,62.9,65.0,60.8,,2.3,4.3,75.3,,
+LDC§,2015,WHO_UNICEF_UNFPA,199,,,,439,,,,,
+LDC§,2020,United Nations Population Division,199,64.6,67.1,62.2,,2.4,4.1,62.1,,
+LDC§,2020,WHO_UNICEF_UNFPA,199,,,,377,,,,,
+LDC§,2024,United Nations Population Division,199,66.5,68.9,64.2,,2.3,3.9,55.4,,
+LLDCs,2010,United Nations Population Division,432,60.7,62.9,58.5,,2.4,4.6,84.7,,
+LLDCs,2010,WHO_UNICEF_UNFPA,432,,,,530,,,,,
+LLDCs,2015,United Nations Population Division,432,62.9,65.4,60.4,,2.2,4.3,73.1,,
+LLDCs,2015,WHO_UNICEF_UNFPA,432,,,,431,,,,,
+LLDCs,2020,United Nations Population Division,432,64.5,67.5,61.6,,2.5,4.0,58.2,,
+LLDCs,2020,WHO_UNICEF_UNFPA,432,,,,368,,,,,
+LLDCs,2024,United Nations Population Division,432,66.8,69.5,64.1,,2.2,3.8,52.4,,
+Lao People's Dem. Rep.,2010,United Nations Population Division,418,63.7,66.1,61.4,,1.5,3.1,67.7,Asia,World
+Lao People's Dem. Rep.,2010,WHO_UNICEF_UNFPA,418,,,,284,,,,Asia,World
+Lao People's Dem. Rep.,2015,United Nations Population Division,418,66.7,68.9,64.6,,1.6,2.8,53.3,Asia,World
+Lao People's Dem. Rep.,2015,WHO_UNICEF_UNFPA,418,,,,184,,,,Asia,World
+Lao People's Dem. Rep.,2020,United Nations Population Division,418,68.3,71.0,65.9,,1.5,2.5,43.5,Asia,World
+Lao People's Dem. Rep.,2020,WHO_UNICEF_UNFPA,418,,,,126,,,,Asia,World
+Lao People's Dem. Rep.,2024,United Nations Population Division,418,69.2,71.5,67.0,,1.3,2.4,37.2,Asia,World
+Latin America & the Caribbean,2010,United Nations Population Division,419,73.2,76.3,70.2,,1.1,2.2,23.5,,
+Latin America & the Caribbean,2010,WHO_UNICEF_UNFPA,419,,,,79,,,,,
+Latin America & the Caribbean,2015,United Nations Population Division,419,74.8,77.9,71.8,,1.0,2.1,18.9,,
+Latin America & the Caribbean,2015,WHO_UNICEF_UNFPA,419,,,,75,,,,,
+Latin America & the Caribbean,2020,United Nations Population Division,419,73.3,76.7,70.0,,0.6,1.9,16.9,,
+Latin America & the Caribbean,2020,WHO_UNICEF_UNFPA,419,,,,88,,,,,
+Latin America & the Caribbean,2024,United Nations Population Division,419,75.9,78.8,72.9,,0.7,1.8,15.6,,
+Latvia,2010,United Nations Population Division,428,73.0,77.8,67.9,,-2.2,1.4,6.8,Europe,World
+Latvia,2010,WHO_UNICEF_UNFPA,428,,,,25,,,,Europe,World
+Latvia,2015,United Nations Population Division,428,74.7,79.3,69.7,,-0.9,1.7,4.9,Europe,World
+Latvia,2015,WHO_UNICEF_UNFPA,428,,,,22,,,,Europe,World
+Latvia,2020,United Nations Population Division,428,75.5,80.0,70.7,,-0.7,1.5,4.3,Europe,World
+Latvia,2020,WHO_UNICEF_UNFPA,428,,,,18,,,,Europe,World
+Latvia,2024,United Nations Population Division,428,76.3,80.6,71.8,,-0.8,1.3,3.4,Europe,World
+Lebanon,2010,United Nations Population Division,422,77.5,79.4,75.4,,0.6,2.3,12.8,Asia,World
+Lebanon,2010,WHO_UNICEF_UNFPA,422,,,,18,,,,Asia,World
+Lebanon,2015,United Nations Population Division,422,78.3,80.1,76.2,,-2.2,2.4,13.1,Asia,World
+Lebanon,2015,WHO_UNICEF_UNFPA,422,,,,19,,,,Asia,World
+Lebanon,2020,United Nations Population Division,422,76.3,78.7,73.9,,0.2,2.3,20.3,Asia,World
+Lebanon,2020,WHO_UNICEF_UNFPA,422,,,,21,,,,Asia,World
+Lebanon,2024,United Nations Population Division,422,77.9,79.9,75.9,,0.7,2.2,18.1,Asia,World
+Lesotho,2010,United Nations Population Division,426,46.0,48.3,43.9,,0.8,3.2,94.9,Africa,World
+Lesotho,2010,WHO_UNICEF_UNFPA,426,,,,"1,040",,,,Africa,World
+Lesotho,2015,United Nations Population Division,426,51.8,54.4,49.3,,1.2,3.2,81.2,Africa,World
+Lesotho,2015,WHO_UNICEF_UNFPA,426,,,,728,,,,Africa,World
+Lesotho,2020,United Nations Population Division,426,55.1,57.7,52.5,,1.2,2.8,76.3,Africa,World
+Lesotho,2020,WHO_UNICEF_UNFPA,426,,,,566,,,,Africa,World
+Lesotho,2024,United Nations Population Division,426,57.8,60.4,55.0,,1.1,2.7,69.2,Africa,World
+Liberia,2010,United Nations Population Division,430,59.4,60.7,58.0,,2.9,5.1,101.8,Africa,World
+Liberia,2010,WHO_UNICEF_UNFPA,430,,,,634,,,,Africa,World
+Liberia,2015,United Nations Population Division,430,59.2,60.4,58.1,,2.2,4.5,92.3,Africa,World
+Liberia,2015,WHO_UNICEF_UNFPA,430,,,,686,,,,Africa,World
+Liberia,2020,United Nations Population Division,430,61.3,62.6,59.9,,2.1,4.2,77.2,Africa,World
+Liberia,2020,WHO_UNICEF_UNFPA,430,,,,652,,,,Africa,World
+Liberia,2024,United Nations Population Division,430,62.3,63.6,61.0,,2.1,3.9,70.1,Africa,World
+Libya,2010,United Nations Population Division,434,72.2,74.6,70.2,,2.0,2.6,16.9,Africa,World
+Libya,2010,WHO_UNICEF_UNFPA,434,,,,57,,,,Africa,World
+Libya,2015,United Nations Population Division,434,71.6,75.2,68.6,,1.5,2.7,14.6,Africa,World
+Libya,2015,WHO_UNICEF_UNFPA,434,,,,71,,,,Africa,World
+Libya,2020,United Nations Population Division,434,72.4,75.7,69.5,,1.3,2.5,11.9,Africa,World
+Libya,2020,WHO_UNICEF_UNFPA,434,,,,72,,,,Africa,World
+Libya,2024,United Nations Population Division,434,71.1,72.7,69.6,,1.0,2.3,14.8,Africa,World
+Liechtenstein,2010,United Nations Population Division,438,82.1,84.3,79.7,,0.7,1.4,7.8,Europe,World
+Liechtenstein,2015,United Nations Population Division,438,82.8,84.5,80.8,,0.7,1.4,7.2,Europe,World
+Liechtenstein,2024,United Nations Population Division,438,83.7,85.4,82.0,,0.7,1.5,6.4,Europe,World
+Lithuania,2010,United Nations Population Division,440,73.2,78.8,67.5,,-2.9,1.5,6.0,Europe,World
+Lithuania,2010,WHO_UNICEF_UNFPA,440,,,,10,,,,Europe,World
+Lithuania,2015,United Nations Population Division,440,74.5,79.6,69.1,,-1.1,1.7,5.3,Europe,World
+Lithuania,2015,WHO_UNICEF_UNFPA,440,,,,8,,,,Europe,World
+Lithuania,2020,United Nations Population Division,440,75.1,80.0,70.1,,0.1,1.5,3.2,Europe,World
+Lithuania,2020,WHO_UNICEF_UNFPA,440,,,,9,,,,Europe,World
+Lithuania,2024,United Nations Population Division,440,76.2,80.8,71.4,,-0.5,1.2,3.8,Europe,World
+Luxembourg,2010,United Nations Population Division,442,80.1,82.1,77.9,,1.9,1.6,4.6,Europe,World
+Luxembourg,2010,WHO_UNICEF_UNFPA,442,,,,8,,,,Europe,World
+Luxembourg,2015,United Nations Population Division,442,81.3,82.8,79.6,,2.3,1.5,5.1,Europe,World
+Luxembourg,2015,WHO_UNICEF_UNFPA,442,,,,7,,,,Europe,World
+Luxembourg,2020,United Nations Population Division,442,81.4,83.1,79.7,,1.4,1.4,6.5,Europe,World
+Luxembourg,2020,WHO_UNICEF_UNFPA,442,,,,6,,,,Europe,World
+Luxembourg,2024,United Nations Population Division,442,82.4,83.9,80.7,,1.1,1.4,3.7,Europe,World
+Madagascar,2010,United Nations Population Division,450,62.6,64.1,61.1,,2.9,4.9,71.3,Africa,World
+Madagascar,2010,WHO_UNICEF_UNFPA,450,,,,497,,,,Africa,World
+Madagascar,2015,United Nations Population Division,450,63.4,65.0,61.8,,2.6,4.3,66.4,Africa,World
+Madagascar,2015,WHO_UNICEF_UNFPA,450,,,,482,,,,Africa,World
+Madagascar,2020,United Nations Population Division,450,62.7,64.6,60.9,,2.5,4.2,66.0,Africa,World
+Madagascar,2020,WHO_UNICEF_UNFPA,450,,,,392,,,,Africa,World
+Madagascar,2024,United Nations Population Division,450,63.8,65.6,62.1,,2.4,3.9,64.4,Africa,World
+Malawi,2010,United Nations Population Division,454,57.8,59.9,55.6,,2.9,5.3,81.2,Africa,World
+Malawi,2010,WHO_UNICEF_UNFPA,454,,,,513,,,,Africa,World
+Malawi,2015,United Nations Population Division,454,62.3,65.2,59.4,,2.7,4.4,57.0,Africa,World
+Malawi,2015,WHO_UNICEF_UNFPA,454,,,,445,,,,Africa,World
+Malawi,2020,United Nations Population Division,454,65.2,68.8,61.7,,2.6,3.9,43.7,Africa,World
+Malawi,2020,WHO_UNICEF_UNFPA,454,,,,381,,,,Africa,World
+Malawi,2024,United Nations Population Division,454,67.6,70.8,64.3,,2.6,3.6,38.2,Africa,World
+Malaysia,2010,United Nations Population Division,458,75.4,78.1,73.0,,1.8,2.1,8.1,Asia,World
+Malaysia,2010,WHO_UNICEF_UNFPA,458,,,,25,,,,Asia,World
+Malaysia,2015,United Nations Population Division,458,75.3,78.0,72.9,,1.7,2.0,8.1,Asia,World
+Malaysia,2015,WHO_UNICEF_UNFPA,458,,,,22,,,,Asia,World
+Malaysia,2020,United Nations Population Division,458,76.1,78.8,73.7,,1.1,1.7,8.0,Asia,World
+Malaysia,2020,WHO_UNICEF_UNFPA,458,,,,21,,,,Asia,World
+Malaysia,2024,United Nations Population Division,458,76.8,79.5,74.4,,1.2,1.5,6.2,Asia,World
+Maldives,2010,United Nations Population Division,462,76.8,78.4,75.5,,3.5,2.3,14.0,Asia,World
+Maldives,2010,WHO_UNICEF_UNFPA,462,,,,60,,,,Asia,World
+Maldives,2015,United Nations Population Division,462,78.6,80.1,77.5,,3.6,2.0,9.7,Asia,World
+Maldives,2015,WHO_UNICEF_UNFPA,462,,,,57,,,,Asia,World
+Maldives,2020,United Nations Population Division,462,78.7,80.4,77.5,,2.8,1.6,6.8,Asia,World
+Maldives,2020,WHO_UNICEF_UNFPA,462,,,,57,,,,Asia,World
+Maldives,2024,United Nations Population Division,462,81.3,83.0,79.9,,0.4,1.6,5.4,Asia,World
+Mali,2010,United Nations Population Division,466,56.0,56.9,55.1,,3.3,6.6,134.7,Africa,World
+Mali,2010,WHO_UNICEF_UNFPA,466,,,,547,,,,Africa,World
+Mali,2015,United Nations Population Division,466,57.9,58.9,56.8,,3.1,6.4,115.8,Africa,World
+Mali,2015,WHO_UNICEF_UNFPA,466,,,,494,,,,Africa,World
+Mali,2020,United Nations Population Division,466,58.9,60.3,57.5,,3.1,5.9,100.1,Africa,World
+Mali,2020,WHO_UNICEF_UNFPA,466,,,,440,,,,Africa,World
+Mali,2024,United Nations Population Division,466,60.7,62.1,59.3,,2.9,5.5,92.2,Africa,World
+Malta,2010,United Nations Population Division,470,81.4,83.5,79.1,,0.4,1.4,6.8,Europe,World
+Malta,2010,WHO_UNICEF_UNFPA,470,,,,5,,,,Europe,World
+Malta,2015,United Nations Population Division,470,82.6,85.0,80.1,,2.4,1.4,6.8,Europe,World
+Malta,2015,WHO_UNICEF_UNFPA,470,,,,4,,,,Europe,World
+Malta,2020,United Nations Population Division,470,82.3,84.5,80.1,,1.4,1.1,4.6,Europe,World
+Malta,2020,WHO_UNICEF_UNFPA,470,,,,3,,,,Europe,World
+Malta,2024,United Nations Population Division,470,83.5,85.4,81.5,,1.2,1.1,5.5,Europe,World
+Marshall Islands,2010,United Nations Population Division,584,64.5,66.7,62.7,,0.1,3.7,38.9,Oceania,World
+Marshall Islands,2015,United Nations Population Division,584,65.3,67.6,63.4,,-2.1,3.1,35.3,Oceania,World
+Marshall Islands,2024,United Nations Population Division,584,67.1,69.5,65.0,,-3.4,2.9,27.2,Oceania,World
+Martinique,2010,United Nations Population Division,474,81.1,83.9,78.1,,-0.6,2.0,9.2,North America,World
+Martinique,2015,United Nations Population Division,474,82.0,84.5,79.3,,-1.0,2.0,8.5,North America,World
+Martinique,2024,United Nations Population Division,474,82.7,85.7,79.5,,-0.8,2.0,7.6,North America,World
+Mauritania,2010,United Nations Population Division,478,65.7,67.9,63.5,,3.2,5.4,56.8,Africa,World
+Mauritania,2010,WHO_UNICEF_UNFPA,478,,,,586,,,,Africa,World
+Mauritania,2015,United Nations Population Division,478,66.5,68.6,64.6,,3.0,5.2,48.8,Africa,World
+Mauritania,2015,WHO_UNICEF_UNFPA,478,,,,510,,,,Africa,World
+Mauritania,2020,United Nations Population Division,478,66.8,68.9,64.8,,2.9,4.9,41.8,Africa,World
+Mauritania,2020,WHO_UNICEF_UNFPA,478,,,,464,,,,Africa,World
+Mauritania,2024,United Nations Population Division,478,68.7,70.7,66.7,,2.8,4.6,36.6,Africa,World
+Mauritius,2010,United Nations Population Division,480,73.6,77.2,70.3,,0.3,1.5,14.6,Africa,World
+Mauritius,2010,WHO_UNICEF_UNFPA,480,,,,55,,,,Africa,World
+Mauritius,2015,United Nations Population Division,480,74.7,77.9,71.6,,0.0,1.3,14.2,Africa,World
+Mauritius,2015,WHO_UNICEF_UNFPA,480,,,,57,,,,Africa,World
+Mauritius,2020,United Nations Population Division,480,74.7,78.4,71.3,,-0.2,1.4,15.8,Africa,World
+Mauritius,2020,WHO_UNICEF_UNFPA,480,,,,84,,,,Africa,World
+Mauritius,2024,United Nations Population Division,480,75.1,78.3,72.1,,-0.2,1.2,13.4,Africa,World
+Mayotte,2010,United Nations Population Division,175,78.3,80.5,76.3,,2.7,4.4,6.7,Africa,World
+Mayotte,2015,United Nations Population Division,175,76.9,78.6,75.3,,4.1,4.7,9.8,Africa,World
+Mayotte,2024,United Nations Population Division,175,76.2,78.5,74.3,,3.2,4.6,10.9,Africa,World
+Melanesia,2010,United Nations Population Division,54,64.2,66.6,62.2,,2.7,3.7,52.3,,
+Melanesia,2010,WHO_UNICEF_UNFPA,54,,,,256,,,,,
+Melanesia,2015,United Nations Population Division,54,65.3,68.3,63.0,,2.3,3.5,46.2,,
+Melanesia,2015,WHO_UNICEF_UNFPA,54,,,,190,,,,,
+Melanesia,2020,United Nations Population Division,54,65.9,69.0,63.4,,1.9,3.2,40.4,,
+Melanesia,2020,WHO_UNICEF_UNFPA,54,,,,176,,,,,
+Melanesia,2024,United Nations Population Division,54,67.0,69.8,64.7,,1.7,3.0,35.6,,
+Mexico,2010,United Nations Population Division,484,73.7,76.3,71.1,,1.4,2.3,19.2,North America,World
+Mexico,2010,WHO_UNICEF_UNFPA,484,,,,51,,,,North America,World
+Mexico,2015,United Nations Population Division,484,74.4,76.9,71.9,,1.0,2.1,16.2,North America,World
+Mexico,2015,WHO_UNICEF_UNFPA,484,,,,52,,,,North America,World
+Mexico,2020,United Nations Population Division,484,70.4,74.1,66.9,,0.7,2.0,13.8,North America,World
+Mexico,2020,WHO_UNICEF_UNFPA,484,,,,59,,,,North America,World
+Mexico,2024,United Nations Population Division,484,75.3,78.0,72.4,,0.8,1.9,12.5,North America,World
+Micronesia,2010,United Nations Population Division,57,70.0,72.7,67.5,,0.3,3.3,32.6,,
+Micronesia,2010,WHO_UNICEF_UNFPA,57,,,,92,,,,,
+Micronesia,2015,United Nations Population Division,57,70.4,73.1,67.8,,-0.1,3.1,32.3,,
+Micronesia,2015,WHO_UNICEF_UNFPA,57,,,,103,,,,,
+Micronesia,2020,United Nations Population Division,57,70.0,73.2,67.1,,0.7,2.9,31.4,,
+Micronesia,2020,WHO_UNICEF_UNFPA,57,,,,80,,,,,
+Micronesia,2024,United Nations Population Division,57,71.6,74.6,68.8,,0.3,2.8,29.1,,
+Micronesia (Fed. States of),2010,United Nations Population Division,583,64.9,68.0,62.0,,0.1,3.3,33.5,Oceania,World
+Micronesia (Fed. States of),2010,WHO_UNICEF_UNFPA,583,,,,46,,,,Oceania,World
+Micronesia (Fed. States of),2015,United Nations Population Division,583,65.3,68.3,62.5,,0.3,3.0,30.0,Oceania,World
+Micronesia (Fed. States of),2015,WHO_UNICEF_UNFPA,583,,,,64,,,,Oceania,World
+Micronesia (Fed. States of),2020,United Nations Population Division,583,65.9,69.7,62.4,,0.9,2.9,25.2,Oceania,World
+Micronesia (Fed. States of),2020,WHO_UNICEF_UNFPA,583,,,,74,,,,Oceania,World
+Micronesia (Fed. States of),2024,United Nations Population Division,583,67.4,71.3,63.6,,0.5,2.7,22.3,Oceania,World
+Middle Africa,2010,United Nations Population Division,17,55.9,57.5,54.3,,3.3,6.2,116.9,,
+Middle Africa,2010,WHO_UNICEF_UNFPA,17,,,,632,,,,,
+Middle Africa,2015,United Nations Population Division,17,58.5,60.4,56.7,,3.2,6.0,96.2,,
+Middle Africa,2015,WHO_UNICEF_UNFPA,17,,,,573,,,,,
+Middle Africa,2020,United Nations Population Division,17,60.3,62.5,58.1,,3.1,5.7,81.2,,
+Middle Africa,2020,WHO_UNICEF_UNFPA,17,,,,539,,,,,
+Middle Africa,2024,United Nations Population Division,17,62.2,64.4,60.0,,3.2,5.4,72.1,,
+Monaco,2010,United Nations Population Division,492,84.6,87.1,82.2,,2.4,2.4,5.7,Europe,World
+Monaco,2015,United Nations Population Division,492,85.3,88.2,82.8,,1.7,2.5,5.2,Europe,World
+Monaco,2024,United Nations Population Division,492,86.5,88.6,84.6,,-0.8,2.1,4.5,Europe,World
+Mongolia,2010,United Nations Population Division,496,67.1,71.6,63.0,,1.5,2.5,26.8,Asia,World
+Mongolia,2010,WHO_UNICEF_UNFPA,496,,,,65,,,,Asia,World
+Mongolia,2015,United Nations Population Division,496,69.2,73.8,65.0,,2.2,3.0,19.4,Asia,World
+Mongolia,2015,WHO_UNICEF_UNFPA,496,,,,47,,,,Asia,World
+Mongolia,2020,United Nations Population Division,496,70.0,75.2,65.3,,1.6,2.9,15.0,Asia,World
+Mongolia,2020,WHO_UNICEF_UNFPA,496,,,,39,,,,Asia,World
+Mongolia,2024,United Nations Population Division,496,72.0,76.7,67.5,,1.2,2.6,11.3,Asia,World
+Montenegro,2010,United Nations Population Division,499,75.7,78.4,72.8,,-0.1,1.7,7.2,Europe,World
+Montenegro,2010,WHO_UNICEF_UNFPA,499,,,,7,,,,Europe,World
+Montenegro,2015,United Nations Population Division,499,76.6,79.2,73.8,,-0.6,1.8,3.9,Europe,World
+Montenegro,2015,WHO_UNICEF_UNFPA,499,,,,6,,,,Europe,World
+Montenegro,2020,United Nations Population Division,499,75.9,79.1,72.6,,-0.6,1.8,4.2,Europe,World
+Montenegro,2020,WHO_UNICEF_UNFPA,499,,,,6,,,,Europe,World
+Montenegro,2024,United Nations Population Division,499,77.3,80.4,73.9,,-0.3,1.8,3.4,Europe,World
+Montserrat,2010,United Nations Population Division,500,74.7,77.2,72.8,,1.3,1.6,10.0,North America,World
+Montserrat,2015,United Nations Population Division,500,75.1,77.7,73.2,,-0.7,1.5,8.4,North America,World
+Montserrat,2024,United Nations Population Division,500,76.3,79.0,74.3,,-0.7,1.4,6.2,North America,World
+Morocco,2010,United Nations Population Division,504,70.8,72.5,69.2,,1.4,2.6,31.0,Africa,World
+Morocco,2010,WHO_UNICEF_UNFPA,504,,,,134,,,,Africa,World
+Morocco,2015,United Nations Population Division,504,72.9,74.7,71.2,,1.1,2.4,23.3,Africa,World
+Morocco,2015,WHO_UNICEF_UNFPA,504,,,,97,,,,Africa,World
+Morocco,2020,United Nations Population Division,504,73.1,75.7,70.9,,1.0,2.3,18.6,Africa,World
+Morocco,2020,WHO_UNICEF_UNFPA,504,,,,72,,,,Africa,World
+Morocco,2024,United Nations Population Division,504,75.5,77.8,73.3,,0.9,2.2,16.3,Africa,World
+Mozambique,2010,United Nations Population Division,508,55.0,56.4,53.4,,2.7,5.7,104.4,Africa,World
+Mozambique,2010,WHO_UNICEF_UNFPA,508,,,,322,,,,Africa,World
+Mozambique,2015,United Nations Population Division,508,58.7,60.7,56.4,,2.9,5.2,83.9,Africa,World
+Mozambique,2015,WHO_UNICEF_UNFPA,508,,,,226,,,,Africa,World
+Mozambique,2020,United Nations Population Division,508,61.4,64.2,58.2,,3.0,5.0,70.5,Africa,World
+Mozambique,2020,WHO_UNICEF_UNFPA,508,,,,127,,,,Africa,World
+Mozambique,2024,United Nations Population Division,508,63.8,66.7,60.5,,2.9,4.7,63.0,Africa,World
+Myanmar,2010,United Nations Population Division,104,63.5,66.5,60.7,,0.8,2.3,63.2,Asia,World
+Myanmar,2010,WHO_UNICEF_UNFPA,104,,,,293,,,,Asia,World
+Myanmar,2015,United Nations Population Division,104,65.3,68.4,62.4,,0.8,2.3,51.6,Asia,World
+Myanmar,2015,WHO_UNICEF_UNFPA,104,,,,243,,,,Asia,World
+Myanmar,2020,United Nations Population Division,104,66.6,69.7,63.7,,0.7,2.2,43.0,Asia,World
+Myanmar,2020,WHO_UNICEF_UNFPA,104,,,,179,,,,Asia,World
+Myanmar,2024,United Nations Population Division,104,67.1,70.4,64.0,,0.7,2.1,41.4,Asia,World
+Namibia,2010,United Nations Population Division,516,56.1,58.7,53.4,,1.6,3.7,51.5,Africa,World
+Namibia,2010,WHO_UNICEF_UNFPA,516,,,,482,,,,Africa,World
+Namibia,2015,United Nations Population Division,516,60.0,63.1,56.8,,2.7,3.6,45.3,Africa,World
+Namibia,2015,WHO_UNICEF_UNFPA,516,,,,299,,,,Africa,World
+Namibia,2020,United Nations Population Division,516,64.1,68.0,60.2,,3.0,3.3,40.5,Africa,World
+Namibia,2020,WHO_UNICEF_UNFPA,516,,,,215,,,,Africa,World
+Namibia,2024,United Nations Population Division,516,67.5,71.5,63.5,,2.1,3.2,36.3,Africa,World
+Nauru,2010,United Nations Population Division,520,60.1,63.6,57.5,,0.3,4.0,36.9,Oceania,World
+Nauru,2015,United Nations Population Division,520,60.9,64.2,58.2,,1.9,4.1,33.0,Oceania,World
+Nauru,2024,United Nations Population Division,520,62.3,64.2,60.4,,0.7,3.3,25.3,Oceania,World
+Nepal,2010,United Nations Population Division,524,66.8,68.4,65.2,,0.6,2.5,48.2,Asia,World
+Nepal,2010,WHO_UNICEF_UNFPA,524,,,,349,,,,Asia,World
+Nepal,2015,United Nations Population Division,524,67.4,68.6,66.1,,0.7,2.3,40.3,Asia,World
+Nepal,2015,WHO_UNICEF_UNFPA,524,,,,252,,,,Asia,World
+Nepal,2020,United Nations Population Division,524,69.1,70.8,67.5,,1.8,2.1,30.3,Asia,World
+Nepal,2020,WHO_UNICEF_UNFPA,524,,,,174,,,,Asia,World
+Nepal,2024,United Nations Population Division,524,70.6,72.1,69.1,,-0.2,2.0,24.8,Asia,World
+Netherlands (Kingdom of the),2010,United Nations Population Division,528,80.8,82.7,78.8,,0.5,1.8,4.5,Europe,World
+Netherlands (Kingdom of the),2010,WHO_UNICEF_UNFPA,528,,,,6,,,,Europe,World
+Netherlands (Kingdom of the),2015,United Nations Population Division,528,81.5,83.1,79.7,,0.5,1.7,3.8,Europe,World
+Netherlands (Kingdom of the),2015,WHO_UNICEF_UNFPA,528,,,,5,,,,Europe,World
+Netherlands (Kingdom of the),2020,United Nations Population Division,528,81.4,83.1,79.7,,0.4,1.5,4.3,Europe,World
+Netherlands (Kingdom of the),2020,WHO_UNICEF_UNFPA,528,,,,4,,,,Europe,World
+Netherlands (Kingdom of the),2024,United Nations Population Division,528,82.3,83.9,80.7,,0.7,1.4,3.6,Europe,World
+New Caledonia,2010,United Nations Population Division,540,76.0,79.2,73.1,,1.9,2.2,16.3,Oceania,World
+New Caledonia,2015,United Nations Population Division,540,77.2,80.2,74.4,,0.1,2.1,14.2,Oceania,World
+New Caledonia,2024,United Nations Population Division,540,78.9,81.4,76.5,,0.9,2.0,10.6,Oceania,World
+New Zealand,2010,United Nations Population Division,554,81.1,82.9,79.1,,0.9,2.2,6.1,Oceania,World
+New Zealand,2010,WHO_UNICEF_UNFPA,554,,,,10,,,,Oceania,World
+New Zealand,2015,United Nations Population Division,554,81.6,83.2,79.9,,2.1,2.0,5.1,Oceania,World
+New Zealand,2015,WHO_UNICEF_UNFPA,554,,,,9,,,,Oceania,World
+New Zealand,2020,United Nations Population Division,554,82.7,84.5,80.8,,1.3,1.6,4.4,Oceania,World
+New Zealand,2020,WHO_UNICEF_UNFPA,554,,,,7,,,,Oceania,World
+New Zealand,2024,United Nations Population Division,554,82.2,83.9,80.6,,0.8,1.7,4.7,Oceania,World
+Nicaragua,2010,United Nations Population Division,558,71.8,74.7,68.8,,1.4,2.6,23.9,North America,World
+Nicaragua,2010,WHO_UNICEF_UNFPA,558,,,,98,,,,North America,World
+Nicaragua,2015,United Nations Population Division,558,72.9,75.6,70.1,,1.4,2.4,19.4,North America,World
+Nicaragua,2015,WHO_UNICEF_UNFPA,558,,,,79,,,,North America,World
+Nicaragua,2020,United Nations Population Division,558,70.8,74.0,67.6,,1.2,2.3,16.2,North America,World
+Nicaragua,2020,WHO_UNICEF_UNFPA,558,,,,78,,,,North America,World
+Nicaragua,2024,United Nations Population Division,558,75.1,77.6,72.5,,1.3,2.2,13.2,North America,World
+Niger,2010,United Nations Population Division,562,57.1,57.6,56.5,,3.7,7.6,139.2,Africa,World
+Niger,2010,WHO_UNICEF_UNFPA,562,,,,594,,,,Africa,World
+Niger,2015,United Nations Population Division,562,58.8,59.7,58.0,,3.7,7.2,127.4,Africa,World
+Niger,2015,WHO_UNICEF_UNFPA,562,,,,491,,,,Africa,World
+Niger,2020,United Nations Population Division,562,59.9,61.0,58.8,,3.3,6.4,120.7,Africa,World
+Niger,2020,WHO_UNICEF_UNFPA,562,,,,441,,,,Africa,World
+Niger,2024,United Nations Population Division,562,61.4,62.4,60.5,,3.3,5.9,113.7,Africa,World
+Nigeria,2010,United Nations Population Division,566,51.3,51.8,50.9,,2.8,5.9,136.2,Africa,World
+Nigeria,2010,WHO_UNICEF_UNFPA,566,,,,"1,123",,,,Africa,World
+Nigeria,2015,United Nations Population Division,566,51.9,52.2,51.6,,2.5,5.5,126.2,Africa,World
+Nigeria,2015,WHO_UNICEF_UNFPA,566,,,,"1,113",,,,Africa,World
+Nigeria,2020,United Nations Population Division,566,53.1,53.4,52.7,,2.1,4.7,113.7,Africa,World
+Nigeria,2020,WHO_UNICEF_UNFPA,566,,,,"1,047",,,,Africa,World
+Nigeria,2024,United Nations Population Division,566,54.6,54.9,54.3,,2.1,4.4,102.8,Africa,World
+Niue,2010,United Nations Population Division,570,67.7,70.9,64.8,,-0.9,3.0,35.3,Oceania,World
+Niue,2015,United Nations Population Division,570,68.6,71.6,65.9,,0.5,2.9,31.0,Oceania,World
+Niue,2024,United Nations Population Division,570,70.1,72.9,67.5,,0.4,2.5,23.5,Oceania,World
+North Macedonia,2010,United Nations Population Division,807,75.0,77.3,72.6,,-0.5,1.7,8.5,Europe,World
+North Macedonia,2010,WHO_UNICEF_UNFPA,807,,,,6,,,,Europe,World
+North Macedonia,2015,United Nations Population Division,807,75.6,77.9,73.3,,-0.9,1.8,9.6,Europe,World
+North Macedonia,2015,WHO_UNICEF_UNFPA,807,,,,5,,,,Europe,World
+North Macedonia,2020,United Nations Population Division,807,74.5,77.0,72.0,,-1.5,1.6,6.4,Europe,World
+North Macedonia,2020,WHO_UNICEF_UNFPA,807,,,,3,,,,Europe,World
+North Macedonia,2024,United Nations Population Division,807,77.5,79.7,75.3,,-0.5,1.5,6.9,Europe,World
+Northern Africa,2010,United Nations Population Division,15,69.3,71.4,67.3,,1.8,3.3,39.1,,
+Northern Africa,2010,WHO_UNICEF_UNFPA,15,,,,144,,,,,
+Northern Africa,2015,United Nations Population Division,15,70.5,72.8,68.4,,2.0,3.4,32.6,,
+Northern Africa,2015,WHO_UNICEF_UNFPA,15,,,,109,,,,,
+Northern Africa,2020,United Nations Population Division,15,70.2,72.5,68.0,,1.6,3.1,28.9,,
+Northern Africa,2020,WHO_UNICEF_UNFPA,15,,,,103,,,,,
+Northern Africa,2024,United Nations Population Division,15,72.2,74.6,70.0,,1.4,2.9,26.9,,
+Northern America,2010,United Nations Population Division,21,78.9,81.3,76.5,,1.0,1.9,7.1,,
+Northern America,2010,WHO_UNICEF_UNFPA,21,,,,14,,,,,
+Northern America,2015,United Nations Population Division,21,79.0,81.4,76.7,,0.9,1.8,6.7,,
+Northern America,2015,WHO_UNICEF_UNFPA,21,,,,17,,,,,
+Northern America,2020,United Nations Population Division,21,77.5,80.3,74.8,,0.2,1.6,6.1,,
+Northern America,2020,WHO_UNICEF_UNFPA,21,,,,20,,,,,
+Northern America,2024,United Nations Population Division,21,79.8,82.3,77.4,,0.6,1.6,5.8,,
+Northern Europe,2010,United Nations Population Division,154,79.9,82.2,77.5,,0.6,1.9,4.7,,
+Northern Europe,2010,WHO_UNICEF_UNFPA,154,,,,9,,,,,
+Northern Europe,2015,United Nations Population Division,154,80.7,82.8,78.6,,0.7,1.8,4.1,,
+Northern Europe,2015,WHO_UNICEF_UNFPA,154,,,,8,,,,,
+Northern Europe,2020,United Nations Population Division,154,80.6,82.8,78.5,,0.3,1.6,3.7,,
+Northern Europe,2020,WHO_UNICEF_UNFPA,154,,,,8,,,,,
+Northern Europe,2024,United Nations Population Division,154,81.6,83.6,79.5,,0.5,1.5,3.7,,
+Northern Mariana Islands,2010,United Nations Population Division,580,77.8,79.8,76.2,,-1.2,3.0,7.4,Oceania,World
+Northern Mariana Islands,2015,United Nations Population Division,580,77.4,79.4,75.7,,-1.4,3.1,8.4,Oceania,World
+Northern Mariana Islands,2024,United Nations Population Division,580,78.9,80.9,77.3,,-1.8,2.3,6.1,Oceania,World
+Norway,2010,United Nations Population Division,578,81.0,83.2,78.8,,1.3,1.9,3.3,Europe,World
+Norway,2010,WHO_UNICEF_UNFPA,578,,,,4,,,,Europe,World
+Norway,2015,United Nations Population Division,578,82.3,84.1,80.4,,0.9,1.7,2.9,Europe,World
+Norway,2015,WHO_UNICEF_UNFPA,578,,,,2,,,,Europe,World
+Norway,2020,United Nations Population Division,578,83.2,84.9,81.5,,0.4,1.5,2.1,Europe,World
+Norway,2020,WHO_UNICEF_UNFPA,578,,,,2,,,,Europe,World
+Norway,2024,United Nations Population Division,578,83.5,85.0,81.9,,1.0,1.4,2.1,Europe,World
+Oceania,2010,United Nations Population Division,9,77.2,79.7,74.8,,1.7,2.5,25.5,,
+Oceania,2010,WHO_UNICEF_UNFPA,9,,,,114,,,,,
+Oceania,2015,United Nations Population Division,9,77.9,80.4,75.5,,1.7,2.4,22.9,,
+Oceania,2015,WHO_UNICEF_UNFPA,9,,,,88,,,,,
+Oceania,2020,United Nations Population Division,9,78.8,81.5,76.4,,1.1,2.1,20.7,,
+Oceania,2020,WHO_UNICEF_UNFPA,9,,,,83,,,,,
+Oceania,2024,United Nations Population Division,9,79.3,81.6,77.1,,1.1,2.1,18.2,,
+Oman,2010,United Nations Population Division,512,77.2,79.6,75.4,,3.1,3.0,11.8,Asia,World
+Oman,2010,WHO_UNICEF_UNFPA,512,,,,18,,,,Asia,World
+Oman,2015,United Nations Population Division,512,79.3,81.3,77.9,,5.1,3.0,11.2,Asia,World
+Oman,2015,WHO_UNICEF_UNFPA,512,,,,15,,,,Asia,World
+Oman,2020,United Nations Population Division,512,77.8,79.5,76.5,,-2.2,2.6,10.7,Asia,World
+Oman,2020,WHO_UNICEF_UNFPA,512,,,,17,,,,Asia,World
+Oman,2024,United Nations Population Division,512,80.2,82.0,78.7,,4.4,2.5,10.1,Asia,World
+Other non-specified areas,2010,United Nations Population Division,158,79.0,82.5,76.0,,0.2,0.9,5.7,,
+Other non-specified areas,2015,United Nations Population Division,158,79.9,83.4,76.7,,0.2,1.2,5.0,,
+Other non-specified areas,2024,United Nations Population Division,158,80.7,83.7,77.9,,-0.4,0.9,4.4,,
+Pakistan,2010,United Nations Population Division,586,64.4,66.7,62.3,,2.4,4.4,87.3,Asia,World
+Pakistan,2010,WHO_UNICEF_UNFPA,586,,,,230,,,,Asia,World
+Pakistan,2015,United Nations Population Division,586,65.6,68.1,63.5,,1.4,4.0,76.2,Asia,World
+Pakistan,2015,WHO_UNICEF_UNFPA,586,,,,187,,,,Asia,World
+Pakistan,2020,United Nations Population Division,586,65.7,68.4,63.3,,1.9,3.8,65.2,Asia,World
+Pakistan,2020,WHO_UNICEF_UNFPA,586,,,,154,,,,Asia,World
+Pakistan,2024,United Nations Population Division,586,67.8,70.3,65.5,,1.5,3.5,58.1,Asia,World
+Palau,2010,United Nations Population Division,585,68.3,72.2,65.2,,-1.7,1.9,19.9,Oceania,World
+Palau,2015,United Nations Population Division,585,69.1,72.6,66.1,,0.2,2.0,21.3,Oceania,World
+Palau,2024,United Nations Population Division,585,69.4,71.9,67.3,,-0.1,1.9,21.4,Oceania,World
+Panama,2010,United Nations Population Division,591,76.4,79.9,73.0,,1.8,2.6,18.7,North America,World
+Panama,2010,WHO_UNICEF_UNFPA,591,,,,55,,,,North America,World
+Panama,2015,United Nations Population Division,591,77.6,80.6,74.6,,1.7,2.5,17.1,North America,World
+Panama,2015,WHO_UNICEF_UNFPA,591,,,,49,,,,North America,World
+Panama,2020,United Nations Population Division,591,76.3,79.8,73.1,,1.2,2.2,12.8,North America,World
+Panama,2020,WHO_UNICEF_UNFPA,591,,,,50,,,,North America,World
+Panama,2024,United Nations Population Division,591,79.8,82.7,76.9,,1.2,2.1,13.2,North America,World
+Papua New Guinea,2010,United Nations Population Division,598,63.1,65.5,61.2,,3.0,3.9,58.5,Oceania,World
+Papua New Guinea,2010,WHO_UNICEF_UNFPA,598,,,,289,,,,Oceania,World
+Papua New Guinea,2015,United Nations Population Division,598,64.5,67.5,62.1,,2.5,3.6,51.5,Oceania,World
+Papua New Guinea,2015,WHO_UNICEF_UNFPA,598,,,,208,,,,Oceania,World
+Papua New Guinea,2020,United Nations Population Division,598,65.1,68.4,62.6,,2.0,3.3,44.2,Oceania,World
+Papua New Guinea,2020,WHO_UNICEF_UNFPA,598,,,,192,,,,Oceania,World
+Papua New Guinea,2024,United Nations Population Division,598,66.3,69.2,63.8,,1.8,3.1,39.2,Oceania,World
+Paraguay,2010,United Nations Population Division,600,72.6,75.3,70.0,,1.3,2.7,25.8,South America,World
+Paraguay,2010,WHO_UNICEF_UNFPA,600,,,,100,,,,South America,World
+Paraguay,2015,United Nations Population Division,600,73.5,76.5,70.6,,1.5,2.6,22.1,South America,World
+Paraguay,2015,WHO_UNICEF_UNFPA,600,,,,80,,,,South America,World
+Paraguay,2020,United Nations Population Division,600,72.7,76.1,69.7,,1.4,2.5,18.7,South America,World
+Paraguay,2020,WHO_UNICEF_UNFPA,600,,,,71,,,,South America,World
+Paraguay,2024,United Nations Population Division,600,74.0,77.1,71.0,,1.2,2.4,19.3,South America,World
+Peru,2010,United Nations Population Division,604,72.9,75.2,70.7,,0.7,2.4,20.6,South America,World
+Peru,2010,WHO_UNICEF_UNFPA,604,,,,76,,,,South America,World
+Peru,2015,United Nations Population Division,604,75.7,78.0,73.6,,1.2,2.2,17.3,South America,World
+Peru,2015,WHO_UNICEF_UNFPA,604,,,,65,,,,South America,World
+Peru,2020,United Nations Population Division,604,73.8,78.0,70.4,,1.1,2.1,15.7,South America,World
+Peru,2020,WHO_UNICEF_UNFPA,604,,,,69,,,,South America,World
+Peru,2024,United Nations Population Division,604,77.9,80.3,75.6,,1.1,2.0,12.8,South America,World
+Philippines,2010,United Nations Population Division,608,68.9,72.1,65.5,,2.1,3.3,30.1,Asia,World
+Philippines,2010,WHO_UNICEF_UNFPA,608,,,,105,,,,Asia,World
+Philippines,2015,United Nations Population Division,608,69.5,72.5,66.3,,1.4,2.8,28.4,Asia,World
+Philippines,2015,WHO_UNICEF_UNFPA,608,,,,88,,,,Asia,World
+Philippines,2020,United Nations Population Division,608,70.1,72.8,67.4,,1.1,2.1,28.1,Asia,World
+Philippines,2020,WHO_UNICEF_UNFPA,608,,,,78,,,,Asia,World
+Philippines,2024,United Nations Population Division,608,69.9,73.0,67.0,,0.8,1.9,26.5,Asia,World
+Poland,2010,United Nations Population Division,616,76.3,80.4,72.1,,0.4,1.4,5.7,Europe,World
+Poland,2010,WHO_UNICEF_UNFPA,616,,,,3,,,,Europe,World
+Poland,2015,United Nations Population Division,616,77.6,81.5,73.6,,0.0,1.3,4.8,Europe,World
+Poland,2015,WHO_UNICEF_UNFPA,616,,,,2,,,,Europe,World
+Poland,2020,United Nations Population Division,616,76.6,80.8,72.5,,-0.3,1.4,4.1,Europe,World
+Poland,2020,WHO_UNICEF_UNFPA,616,,,,2,,,,Europe,World
+Poland,2024,United Nations Population Division,616,78.8,82.5,75.1,,-0.9,1.3,3.8,Europe,World
+Polynesia,2010,United Nations Population Division,61,75.2,78.0,72.7,,0.5,3.1,14.2,,
+Polynesia,2010,WHO_UNICEF_UNFPA,61,,,,77,,,,,
+Polynesia,2015,United Nations Population Division,61,75.8,78.4,73.4,,0.2,2.9,13.6,,
+Polynesia,2015,WHO_UNICEF_UNFPA,61,,,,73,,,,,
+Polynesia,2020,United Nations Population Division,61,76.0,78.7,73.6,,0.3,2.6,13.1,,
+Polynesia,2020,WHO_UNICEF_UNFPA,61,,,,82,,,,,
+Polynesia,2024,United Nations Population Division,61,77.4,79.8,75.1,,0.0,2.5,11.6,,
+Portugal,2010,United Nations Population Division,620,80.1,83.2,76.9,,-0.1,1.4,3.3,Europe,World
+Portugal,2010,WHO_UNICEF_UNFPA,620,,,,10,,,,Europe,World
+Portugal,2015,United Nations Population Division,620,81.3,84.3,78.2,,-0.2,1.3,3.6,Europe,World
+Portugal,2015,WHO_UNICEF_UNFPA,620,,,,10,,,,Europe,World
+Portugal,2020,United Nations Population Division,620,81.4,84.2,78.4,,0.2,1.4,3.0,Europe,World
+Portugal,2020,WHO_UNICEF_UNFPA,620,,,,12,,,,Europe,World
+Portugal,2024,United Nations Population Division,620,82.6,85.3,79.7,,-0.1,1.5,3.0,Europe,World
+Puerto Rico,2010,United Nations Population Division,630,78.7,82.2,75.2,,-0.7,1.6,8.8,North America,World
+Puerto Rico,2010,WHO_UNICEF_UNFPA,630,,,,21,,,,North America,World
+Puerto Rico,2015,United Nations Population Division,630,80.7,84.0,77.2,,-1.3,1.4,7.4,North America,World
+Puerto Rico,2015,WHO_UNICEF_UNFPA,630,,,,18,,,,North America,World
+Puerto Rico,2020,United Nations Population Division,630,80.0,84.0,76.0,,-0.7,0.9,6.2,North America,World
+Puerto Rico,2020,WHO_UNICEF_UNFPA,630,,,,34,,,,North America,World
+Puerto Rico,2024,United Nations Population Division,630,81.9,85.4,78.3,,-0.1,0.9,6.5,North America,World
+Qatar,2010,United Nations Population Division,634,79.4,80.5,78.7,,6.3,2.1,9.1,Asia,World
+Qatar,2010,WHO_UNICEF_UNFPA,634,,,,10,,,,Asia,World
+Qatar,2015,United Nations Population Division,634,81.8,82.8,81.1,,8.3,2.0,7.6,Asia,World
+Qatar,2015,WHO_UNICEF_UNFPA,634,,,,7,,,,Asia,World
+Qatar,2020,United Nations Population Division,634,80.4,82.2,79.4,,-0.9,1.7,5.9,Asia,World
+Qatar,2020,WHO_UNICEF_UNFPA,634,,,,8,,,,Asia,World
+Qatar,2024,United Nations Population Division,634,82.5,83.5,81.8,,2.4,1.7,6.8,Asia,World
+Republic of Korea,2010,United Nations Population Division,410,80.7,84.2,77.1,,0.5,1.2,4.2,Asia,World
+Republic of Korea,2010,WHO_UNICEF_UNFPA,410,,,,8,,,,Asia,World
+Republic of Korea,2015,United Nations Population Division,410,82.5,85.8,79.0,,0.8,1.2,3.5,Asia,World
+Republic of Korea,2015,WHO_UNICEF_UNFPA,410,,,,6,,,,Asia,World
+Republic of Korea,2020,United Nations Population Division,410,83.7,86.8,80.3,,0.1,0.8,3.0,Asia,World
+Republic of Korea,2020,WHO_UNICEF_UNFPA,410,,,,8,,,,Asia,World
+Republic of Korea,2024,United Nations Population Division,410,84.4,87.3,81.3,,-0.1,0.7,2.6,Asia,World
+Republic of Moldova,2010,United Nations Population Division,498,69.9,74.0,65.5,,-2.1,1.7,17.2,Europe,World
+Republic of Moldova,2010,WHO_UNICEF_UNFPA,498,,,,18,,,,Europe,World
+Republic of Moldova,2015,United Nations Population Division,498,70.1,74.5,65.6,,-1.6,1.9,15.7,Europe,World
+Republic of Moldova,2015,WHO_UNICEF_UNFPA,498,,,,17,,,,Europe,World
+Republic of Moldova,2020,United Nations Population Division,498,69.9,74.2,65.5,,-1.4,1.8,14.5,Europe,World
+Republic of Moldova,2020,WHO_UNICEF_UNFPA,498,,,,12,,,,Europe,World
+Republic of Moldova,2024,United Nations Population Division,498,71.3,75.7,66.7,,-1.2,1.7,11.8,Europe,World
+Romania,2010,United Nations Population Division,642,73.6,77.3,69.9,,-0.7,1.6,12.4,Europe,World
+Romania,2010,WHO_UNICEF_UNFPA,642,,,,22,,,,Europe,World
+Romania,2015,United Nations Population Division,642,74.7,78.3,71.2,,-0.5,1.6,9.2,Europe,World
+Romania,2015,WHO_UNICEF_UNFPA,642,,,,15,,,,Europe,World
+Romania,2020,United Nations Population Division,642,74.0,78.0,70.3,,-0.6,1.7,6.7,Europe,World
+Romania,2020,WHO_UNICEF_UNFPA,642,,,,10,,,,Europe,World
+Romania,2024,United Nations Population Division,642,76.1,79.7,72.6,,-0.6,1.7,6.3,Europe,World
+Russian Federation,2010,United Nations Population Division,643,68.2,74.3,62.2,,0.0,1.6,11.9,Europe,World
+Russian Federation,2010,WHO_UNICEF_UNFPA,643,,,,17,,,,Europe,World
+Russian Federation,2015,United Nations Population Division,643,71.3,76.7,65.9,,0.3,1.8,8.1,Europe,World
+Russian Federation,2015,WHO_UNICEF_UNFPA,643,,,,10,,,,Europe,World
+Russian Federation,2020,United Nations Population Division,643,71.2,75.9,66.3,,-0.3,1.5,5.7,Europe,World
+Russian Federation,2020,WHO_UNICEF_UNFPA,643,,,,14,,,,Europe,World
+Russian Federation,2024,United Nations Population Division,643,73.3,79.2,67.5,,-0.5,1.5,5.3,Europe,World
+Rwanda,2010,United Nations Population Division,646,62.8,64.5,60.9,,2.5,4.5,64.8,Africa,World
+Rwanda,2010,WHO_UNICEF_UNFPA,646,,,,386,,,,Africa,World
+Rwanda,2015,United Nations Population Division,646,65.4,67.4,63.2,,2.4,4.1,47.5,Africa,World
+Rwanda,2015,WHO_UNICEF_UNFPA,646,,,,312,,,,Africa,World
+Rwanda,2020,United Nations Population Division,646,67.0,69.1,64.6,,2.2,3.9,40.7,Africa,World
+Rwanda,2020,WHO_UNICEF_UNFPA,646,,,,259,,,,Africa,World
+Rwanda,2024,United Nations Population Division,646,68.0,70.1,65.7,,2.1,3.6,35.4,Africa,World
+Réunion,2010,United Nations Population Division,638,80.5,83.8,76.9,,0.6,2.2,7.7,Africa,World
+Réunion,2015,United Nations Population Division,638,81.9,84.9,78.7,,-0.2,2.2,7.2,Africa,World
+Réunion,2024,United Nations Population Division,638,83.7,86.4,80.7,,0.4,2.2,5.3,Africa,World
+SIDS,2010,United Nations Population Division,722,66.8,68.9,64.8,,1.0,2.5,59.4,,
+SIDS,2010,WHO_UNICEF_UNFPA,722,,,,231,,,,,
+SIDS,2015,United Nations Population Division,722,71.7,74.6,68.9,,1.0,2.4,41.7,,
+SIDS,2015,WHO_UNICEF_UNFPA,722,,,,212,,,,,
+SIDS,2020,United Nations Population Division,722,71.8,75.1,68.7,,0.6,2.3,37.6,,
+SIDS,2020,WHO_UNICEF_UNFPA,722,,,,208,,,,,
+SIDS,2024,United Nations Population Division,722,72.9,76.0,69.9,,0.8,2.2,34.7,,
+Saint Barthélemy,2010,United Nations Population Division,652,81.9,86.9,77.5,,1.7,1.3,7.9,North America,World
+Saint Barthélemy,2015,United Nations Population Division,652,83.0,87.5,78.5,,1.6,1.1,7.1,North America,World
+Saint Barthélemy,2024,United Nations Population Division,652,84.4,86.9,81.6,,1.4,0.8,6.0,North America,World
+Saint Helena,2010,United Nations Population Division,654,76.5,80.3,73.4,,0.6,1.7,14.8,Africa,World
+Saint Helena,2015,United Nations Population Division,654,75.2,78.6,72.6,,0.8,1.7,16.9,Africa,World
+Saint Helena,2024,United Nations Population Division,654,77.0,80.7,74.0,,-0.8,1.6,13.7,Africa,World
+Saint Kitts and Nevis,2010,United Nations Population Division,659,71.5,74.7,68.5,,-0.4,1.8,18.3,North America,World
+Saint Kitts and Nevis,2015,United Nations Population Division,659,71.2,75.1,67.8,,0.0,1.6,18.0,North America,World
+Saint Kitts and Nevis,2024,United Nations Population Division,659,72.3,76.2,68.7,,0.2,1.5,14.5,North America,World
+Saint Lucia,2010,United Nations Population Division,662,72.8,75.6,70.1,,0.6,1.7,19.0,North America,World
+Saint Lucia,2010,WHO_UNICEF_UNFPA,662,,,,73,,,,North America,World
+Saint Lucia,2015,United Nations Population Division,662,72.9,76.0,70.0,,0.4,1.5,17.8,North America,World
+Saint Lucia,2015,WHO_UNICEF_UNFPA,662,,,,80,,,,North America,World
+Saint Lucia,2020,United Nations Population Division,662,72.3,76.2,68.8,,0.3,1.4,17.5,North America,World
+Saint Lucia,2020,WHO_UNICEF_UNFPA,662,,,,73,,,,North America,World
+Saint Lucia,2024,United Nations Population Division,662,72.8,76.5,69.5,,0.2,1.4,16.6,North America,World
+Saint Martin (French part),2010,United Nations Population Division,663,78.8,82.6,75.4,,0.6,2.4,11.3,North America,World
+Saint Martin (French part),2015,United Nations Population Division,663,79.8,83.6,76.3,,-0.4,2.7,10.1,North America,World
+Saint Martin (French part),2024,United Nations Population Division,663,80.4,84.0,77.0,,-4.9,2.7,9.3,North America,World
+Saint Pierre and Miquelon,2010,United Nations Population Division,666,76.4,81.2,72.0,,-0.2,2.0,10.5,North America,World
+Saint Pierre and Miquelon,2015,United Nations Population Division,666,76.5,81.2,72.4,,-0.2,1.5,10.4,North America,World
+Saint Pierre and Miquelon,2024,United Nations Population Division,666,76.9,81.6,73.0,,-0.9,1.3,9.5,North America,World
+Saint Vincent & Grenadines,2010,United Nations Population Division,670,70.7,73.5,68.2,,-0.5,2.1,22.4,North America,World
+Saint Vincent & Grenadines,2010,WHO_UNICEF_UNFPA,670,,,,45,,,,North America,World
+Saint Vincent & Grenadines,2015,United Nations Population Division,670,70.5,74.3,67.4,,-0.5,2.1,18.1,North America,World
+Saint Vincent & Grenadines,2015,WHO_UNICEF_UNFPA,670,,,,36,,,,North America,World
+Saint Vincent & Grenadines,2020,United Nations Population Division,670,69.6,74.5,66.1,,-0.5,1.8,17.7,North America,World
+Saint Vincent & Grenadines,2020,WHO_UNICEF_UNFPA,670,,,,62,,,,North America,World
+Saint Vincent & Grenadines,2024,United Nations Population Division,670,71.4,74.5,68.8,,-0.7,1.8,14.2,North America,World
+Samoa,2010,United Nations Population Division,882,71.5,74.1,69.0,,0.8,4.5,19.2,Oceania,World
+Samoa,2010,WHO_UNICEF_UNFPA,882,,,,62,,,,Oceania,World
+Samoa,2015,United Nations Population Division,882,71.1,73.2,69.0,,0.9,4.3,18.5,Oceania,World
+Samoa,2015,WHO_UNICEF_UNFPA,882,,,,58,,,,Oceania,World
+Samoa,2020,United Nations Population Division,882,70.7,72.9,68.8,,1.0,4.0,17.5,Oceania,World
+Samoa,2020,WHO_UNICEF_UNFPA,882,,,,59,,,,Oceania,World
+Samoa,2024,United Nations Population Division,882,71.8,73.8,70.0,,0.6,3.8,15.2,Oceania,World
+San Marino,2010,United Nations Population Division,674,83.5,85.3,81.4,,2.2,1.5,2.6,Europe,World
+San Marino,2015,United Nations Population Division,674,84.6,86.3,82.7,,0.8,1.2,2.0,Europe,World
+San Marino,2024,United Nations Population Division,674,85.8,87.2,84.3,,-0.2,1.2,1.4,Europe,World
+Sao Tome and Principe,2010,United Nations Population Division,678,63.9,66.5,61.4,,2.1,4.8,35.9,Africa,World
+Sao Tome and Principe,2010,WHO_UNICEF_UNFPA,678,,,,160,,,,Africa,World
+Sao Tome and Principe,2015,United Nations Population Division,678,66.0,69.3,63.1,,1.7,4.4,23.3,Africa,World
+Sao Tome and Principe,2015,WHO_UNICEF_UNFPA,678,,,,139,,,,Africa,World
+Sao Tome and Principe,2020,United Nations Population Division,678,68.0,72.0,64.6,,2.2,3.8,16.2,Africa,World
+Sao Tome and Principe,2020,WHO_UNICEF_UNFPA,678,,,,146,,,,Africa,World
+Sao Tome and Principe,2024,United Nations Population Division,678,69.9,73.9,66.4,,2.0,3.6,13.2,Africa,World
+Saudi Arabia,2010,United Nations Population Division,682,75.6,78.0,74.1,,3.8,2.8,12.3,Asia,World
+Saudi Arabia,2010,WHO_UNICEF_UNFPA,682,,,,15,,,,Asia,World
+Saudi Arabia,2015,United Nations Population Division,682,77.8,79.7,76.6,,3.3,2.6,9.1,Asia,World
+Saudi Arabia,2015,WHO_UNICEF_UNFPA,682,,,,16,,,,Asia,World
+Saudi Arabia,2020,United Nations Population Division,682,77.6,80.1,76.0,,1.2,2.3,7.0,Asia,World
+Saudi Arabia,2020,WHO_UNICEF_UNFPA,682,,,,16,,,,Asia,World
+Saudi Arabia,2024,United Nations Population Division,682,79.0,81.3,77.3,,1.8,2.3,7.4,Asia,World
+Senegal,2010,United Nations Population Division,686,64.2,66.2,62.3,,2.4,5.1,66.7,Africa,World
+Senegal,2010,WHO_UNICEF_UNFPA,686,,,,450,,,,Africa,World
+Senegal,2015,United Nations Population Division,686,66.5,68.3,64.6,,3.0,4.8,51.0,Africa,World
+Senegal,2015,WHO_UNICEF_UNFPA,686,,,,321,,,,Africa,World
+Senegal,2020,United Nations Population Division,686,67.5,69.7,65.5,,2.6,4.0,40.2,Africa,World
+Senegal,2020,WHO_UNICEF_UNFPA,686,,,,261,,,,Africa,World
+Senegal,2024,United Nations Population Division,686,68.9,71.0,67.0,,2.3,3.8,34.2,Africa,World
+Serbia,2010,United Nations Population Division,688,74.4,77.6,71.2,,-0.4,1.4,7.7,Europe,World
+Serbia,2010,WHO_UNICEF_UNFPA,688,,,,14,,,,Europe,World
+Serbia,2015,United Nations Population Division,688,75.7,78.8,72.5,,-0.7,1.5,6.3,Europe,World
+Serbia,2015,WHO_UNICEF_UNFPA,688,,,,13,,,,Europe,World
+Serbia,2020,United Nations Population Division,688,74.5,78.1,71.1,,-0.9,1.5,5.6,Europe,World
+Serbia,2020,WHO_UNICEF_UNFPA,688,,,,10,,,,Europe,World
+Serbia,2024,United Nations Population Division,688,76.9,80.2,73.7,,-0.7,1.5,4.7,Europe,World
+Seychelles,2010,United Nations Population Division,690,72.5,76.2,69.2,,1.7,2.2,14.1,Africa,World
+Seychelles,2010,WHO_UNICEF_UNFPA,690,,,,8,,,,Africa,World
+Seychelles,2015,United Nations Population Division,690,72.3,76.0,69.1,,2.4,2.2,14.5,Africa,World
+Seychelles,2015,WHO_UNICEF_UNFPA,690,,,,5,,,,Africa,World
+Seychelles,2020,United Nations Population Division,690,74.1,78.6,70.6,,2.2,2.2,14.7,Africa,World
+Seychelles,2020,WHO_UNICEF_UNFPA,690,,,,3,,,,Africa,World
+Seychelles,2024,United Nations Population Division,690,73.0,76.7,70.1,,1.9,2.1,12.4,Africa,World
+Sierra Leone,2010,United Nations Population Division,694,51.9,52.9,50.9,,2.6,5.3,161.0,Africa,World
+Sierra Leone,2010,WHO_UNICEF_UNFPA,694,,,,837,,,,Africa,World
+Sierra Leone,2015,United Nations Population Division,694,55.5,56.3,54.5,,2.3,4.5,132.9,Africa,World
+Sierra Leone,2015,WHO_UNICEF_UNFPA,694,,,,588,,,,Africa,World
+Sierra Leone,2020,United Nations Population Division,694,59.7,61.2,58.2,,2.3,4.1,108.4,Africa,World
+Sierra Leone,2020,WHO_UNICEF_UNFPA,694,,,,443,,,,Africa,World
+Sierra Leone,2024,United Nations Population Division,694,62.0,63.7,60.2,,2.1,3.7,95.7,Africa,World
+Singapore,2010,United Nations Population Division,702,81.6,83.9,79.3,,1.9,0.9,2.8,Asia,World
+Singapore,2010,WHO_UNICEF_UNFPA,702,,,,8,,,,Asia,World
+Singapore,2015,United Nations Population Division,702,82.7,84.9,80.5,,1.2,1.0,2.7,Asia,World
+Singapore,2015,WHO_UNICEF_UNFPA,702,,,,8,,,,Asia,World
+Singapore,2020,United Nations Population Division,702,83.7,85.9,81.4,,-2.2,0.9,2.7,Asia,World
+Singapore,2020,WHO_UNICEF_UNFPA,702,,,,7,,,,Asia,World
+Singapore,2024,United Nations Population Division,702,83.9,86.4,81.4,,0.7,1.0,2.2,Asia,World
+Sint Maarten (Dutch part),2010,United Nations Population Division,534,74.8,77.9,71.9,,0.8,1.8,18.6,North America,World
+Sint Maarten (Dutch part),2015,United Nations Population Division,534,75.9,79.0,73.1,,2.1,1.7,16.0,North America,World
+Sint Maarten (Dutch part),2024,United Nations Population Division,534,76.5,79.7,73.8,,1.4,1.4,14.5,North America,World
+Slovakia,2010,United Nations Population Division,703,75.5,79.2,71.7,,0.1,1.4,6.8,Europe,World
+Slovakia,2010,WHO_UNICEF_UNFPA,703,,,,5,,,,Europe,World
+Slovakia,2015,United Nations Population Division,703,76.7,80.1,73.1,,0.1,1.4,6.4,Europe,World
+Slovakia,2015,WHO_UNICEF_UNFPA,703,,,,5,,,,Europe,World
+Slovakia,2020,United Nations Population Division,703,76.9,80.2,73.4,,0.0,1.6,6.0,Europe,World
+Slovakia,2020,WHO_UNICEF_UNFPA,703,,,,5,,,,Europe,World
+Slovakia,2024,United Nations Population Division,703,78.5,81.7,75.2,,-0.5,1.6,4.8,Europe,World
+Slovenia,2010,United Nations Population Division,705,79.3,82.4,76.0,,0.2,1.6,3.4,Europe,World
+Slovenia,2010,WHO_UNICEF_UNFPA,705,,,,6,,,,Europe,World
+Slovenia,2015,United Nations Population Division,705,80.5,83.3,77.6,,0.1,1.6,2.3,Europe,World
+Slovenia,2015,WHO_UNICEF_UNFPA,705,,,,5,,,,Europe,World
+Slovenia,2020,United Nations Population Division,705,80.4,83.1,77.6,,1.1,1.6,2.4,Europe,World
+Slovenia,2020,WHO_UNICEF_UNFPA,705,,,,5,,,,Europe,World
+Slovenia,2024,United Nations Population Division,705,81.8,84.5,79.1,,-0.1,1.6,1.8,Europe,World
+Solomon Islands,2010,United Nations Population Division,90,68.7,70.7,66.9,,3.7,4.3,26.5,Oceania,World
+Solomon Islands,2010,WHO_UNICEF_UNFPA,90,,,,147,,,,Oceania,World
+Solomon Islands,2015,United Nations Population Division,90,69.3,70.9,67.9,,3.6,4.3,23.0,Oceania,World
+Solomon Islands,2015,WHO_UNICEF_UNFPA,90,,,,141,,,,Oceania,World
+Solomon Islands,2020,United Nations Population Division,90,69.3,71.0,67.8,,2.4,3.7,20.3,Oceania,World
+Solomon Islands,2020,WHO_UNICEF_UNFPA,90,,,,122,,,,Oceania,World
+Solomon Islands,2024,United Nations Population Division,90,70.7,72.2,69.4,,2.4,3.5,17.1,Oceania,World
+Somalia,2010,United Nations Population Division,706,48.9,50.8,47.1,,2.4,7.3,185.1,Africa,World
+Somalia,2010,WHO_UNICEF_UNFPA,706,,,,963,,,,Africa,World
+Somalia,2015,United Nations Population Division,706,55.1,57.1,53.0,,3.4,7.0,133.3,Africa,World
+Somalia,2015,WHO_UNICEF_UNFPA,706,,,,761,,,,Africa,World
+Somalia,2020,United Nations Population Division,706,57.1,59.2,55.1,,3.8,6.5,113.5,Africa,World
+Somalia,2020,WHO_UNICEF_UNFPA,706,,,,621,,,,Africa,World
+Somalia,2024,United Nations Population Division,706,59.0,61.6,56.5,,3.4,6.0,102.1,Africa,World
+South Africa,2010,United Nations Population Division,710,58.9,61.2,56.2,,1.2,2.4,53.5,Africa,World
+South Africa,2010,WHO_UNICEF_UNFPA,710,,,,219,,,,Africa,World
+South Africa,2015,United Nations Population Division,710,64.1,67.0,60.8,,2.3,2.4,39.1,Africa,World
+South Africa,2015,WHO_UNICEF_UNFPA,710,,,,141,,,,Africa,World
+South Africa,2020,United Nations Population Division,710,65.2,67.9,62.2,,1.6,2.3,29.3,Africa,World
+South Africa,2020,WHO_UNICEF_UNFPA,710,,,,127,,,,Africa,World
+South Africa,2024,United Nations Population Division,710,66.3,69.8,62.8,,1.2,2.2,31.2,Africa,World
+South America,2010,United Nations Population Division,5,74.0,77.4,70.8,,1.0,2.1,19.9,,
+South America,2010,WHO_UNICEF_UNFPA,5,,,,74,,,,,
+South America,2015,United Nations Population Division,5,75.3,78.5,72.1,,0.9,2.0,17.1,,
+South America,2015,WHO_UNICEF_UNFPA,5,,,,70,,,,,
+South America,2020,United Nations Population Division,5,74.3,77.6,71.1,,0.6,1.8,15.5,,
+South America,2020,WHO_UNICEF_UNFPA,5,,,,86,,,,,
+South America,2024,United Nations Population Division,5,76.4,79.3,73.5,,0.6,1.7,14.4,,
+South Sudan,2010,United Nations Population Division,728,57.5,58.5,56.4,,6.0,5.3,111.6,Africa,World
+South Sudan,2010,WHO_UNICEF_UNFPA,728,,,,"1,060",,,,Africa,World
+South Sudan,2015,United Nations Population Division,728,39.8,42.9,36.9,,-0.1,4.7,244.7,Africa,World
+South Sudan,2015,WHO_UNICEF_UNFPA,728,,,,"1,225",,,,Africa,World
+South Sudan,2020,United Nations Population Division,728,57.6,60.5,54.8,,2.6,4.2,99.1,Africa,World
+South Sudan,2020,WHO_UNICEF_UNFPA,728,,,,"1,223",,,,Africa,World
+South Sudan,2024,United Nations Population Division,728,57.7,60.7,54.8,,2.1,3.8,98.2,Africa,World
+South-central Asia,2010,United Nations Population Division,62,67.1,69.0,65.4,,1.5,2.8,59.9,,
+South-central Asia,2010,WHO_UNICEF_UNFPA,62,,,,210,,,,,
+South-central Asia,2015,United Nations Population Division,62,69.1,71.0,67.4,,1.2,2.5,47.2,,
+South-central Asia,2015,WHO_UNICEF_UNFPA,62,,,,160,,,,,
+South-central Asia,2020,United Nations Population Division,62,69.7,71.8,67.8,,1.1,2.3,37.6,,
+South-central Asia,2020,WHO_UNICEF_UNFPA,62,,,,129,,,,,
+South-central Asia,2024,United Nations Population Division,62,72.0,73.9,70.3,,1.1,2.2,32.5,,
+South-eastern Asia,2010,United Nations Population Division,35,69.8,72.6,67.1,,1.3,2.4,32.2,,
+South-eastern Asia,2010,WHO_UNICEF_UNFPA,35,,,,168,,,,,
+South-eastern Asia,2015,United Nations Population Division,35,70.9,73.9,68.1,,1.1,2.3,27.4,,
+South-eastern Asia,2015,WHO_UNICEF_UNFPA,35,,,,148,,,,,
+South-eastern Asia,2020,United Nations Population Division,35,71.1,74.2,68.1,,0.8,2.0,24.3,,
+South-eastern Asia,2020,WHO_UNICEF_UNFPA,35,,,,134,,,,,
+South-eastern Asia,2024,United Nations Population Division,35,72.3,75.3,69.3,,0.7,1.9,22.1,,
+Southern Africa,2010,United Nations Population Division,18,58.1,60.4,55.4,,1.2,2.6,56.2,,
+Southern Africa,2010,WHO_UNICEF_UNFPA,18,,,,277,,,,,
+Southern Africa,2015,United Nations Population Division,18,63.3,66.2,60.1,,2.2,2.5,42.2,,
+Southern Africa,2015,WHO_UNICEF_UNFPA,18,,,,183,,,,,
+Southern Africa,2020,United Nations Population Division,18,64.7,67.5,61.7,,1.6,2.3,32.9,,
+Southern Africa,2020,WHO_UNICEF_UNFPA,18,,,,157,,,,,
+Southern Africa,2024,United Nations Population Division,18,66.1,69.5,62.6,,1.2,2.3,33.6,,
+Southern Asia,2010,United Nations Population Division,34,67.1,68.9,65.4,,1.5,2.8,61.0,,
+Southern Asia,2010,WHO_UNICEF_UNFPA,34,,,,217,,,,,
+Southern Asia,2015,United Nations Population Division,34,69.1,70.9,67.4,,1.2,2.5,48.3,,
+Southern Asia,2015,WHO_UNICEF_UNFPA,34,,,,166,,,,,
+Southern Asia,2020,United Nations Population Division,34,69.7,71.7,67.8,,1.1,2.3,38.5,,
+Southern Asia,2020,WHO_UNICEF_UNFPA,34,,,,134,,,,,
+Southern Asia,2024,United Nations Population Division,34,72.0,73.8,70.3,,1.0,2.2,33.3,,
+Southern Europe,2010,United Nations Population Division,39,80.8,83.5,77.9,,0.2,1.5,4.8,,
+Southern Europe,2010,WHO_UNICEF_UNFPA,39,,,,6,,,,,
+Southern Europe,2015,United Nations Population Division,39,81.4,83.9,78.7,,-0.3,1.4,4.1,,
+Southern Europe,2015,WHO_UNICEF_UNFPA,39,,,,6,,,,,
+Southern Europe,2020,United Nations Population Division,39,81.1,83.7,78.4,,-0.2,1.3,3.6,,
+Southern Europe,2020,WHO_UNICEF_UNFPA,39,,,,6,,,,,
+Southern Europe,2024,United Nations Population Division,39,82.7,85.1,80.2,,-0.3,1.3,3.4,,
+Spain,2010,United Nations Population Division,724,82.0,85.0,79.0,,0.4,1.4,3.8,Europe,World
+Spain,2010,WHO_UNICEF_UNFPA,724,,,,4,,,,Europe,World
+Spain,2015,United Nations Population Division,724,82.6,85.3,79.8,,0.0,1.3,3.1,Europe,World
+Spain,2015,WHO_UNICEF_UNFPA,724,,,,4,,,,Europe,World
+Spain,2020,United Nations Population Division,724,82.2,85.0,79.5,,0.2,1.2,3.0,Europe,World
+Spain,2020,WHO_UNICEF_UNFPA,724,,,,3,,,,Europe,World
+Spain,2024,United Nations Population Division,724,83.8,86.4,81.1,,0.0,1.2,2.9,Europe,World
+Sri Lanka,2010,United Nations Population Division,144,74.5,78.2,70.9,,0.6,2.1,11.2,Asia,World
+Sri Lanka,2010,WHO_UNICEF_UNFPA,144,,,,37,,,,Asia,World
+Sri Lanka,2015,United Nations Population Division,144,76.0,79.4,72.6,,0.8,2.1,8.8,Asia,World
+Sri Lanka,2015,WHO_UNICEF_UNFPA,144,,,,30,,,,Asia,World
+Sri Lanka,2020,United Nations Population Division,144,76.9,80.1,73.7,,0.7,2.0,7.0,Asia,World
+Sri Lanka,2020,WHO_UNICEF_UNFPA,144,,,,29,,,,Asia,World
+Sri Lanka,2024,United Nations Population Division,144,77.7,80.7,74.4,,0.6,2.0,6.2,Asia,World
+State of Palestine,2010,United Nations Population Division,275,73.3,75.1,71.6,,2.5,4.4,21.8,Asia,World
+State of Palestine,2010,WHO_UNICEF_UNFPA,275,,,,43,,,,Asia,World
+State of Palestine,2015,United Nations Population Division,275,74.6,76.7,72.5,,2.4,4.0,18.6,Asia,World
+State of Palestine,2015,WHO_UNICEF_UNFPA,275,,,,26,,,,Asia,World
+State of Palestine,2020,United Nations Population Division,275,75.0,77.6,72.6,,2.3,3.5,15.2,Asia,World
+State of Palestine,2020,WHO_UNICEF_UNFPA,275,,,,20,,,,Asia,World
+State of Palestine,2024,United Nations Population Division,275,69.2,74.3,65.2,,1.6,3.2,27.5,Asia,World
+Sub-Saharan Africa,2010,United Nations Population Division,202,56.5,58.0,55.0,,2.8,5.3,103.1,,
+Sub-Saharan Africa,2010,WHO_UNICEF_UNFPA,202,,,,668,,,,,
+Sub-Saharan Africa,2015,United Nations Population Division,202,58.8,60.5,57.0,,2.7,4.9,89.3,,
+Sub-Saharan Africa,2015,WHO_UNICEF_UNFPA,202,,,,598,,,,,
+Sub-Saharan Africa,2020,United Nations Population Division,202,60.6,62.6,58.6,,2.6,4.5,75.4,,
+Sub-Saharan Africa,2020,WHO_UNICEF_UNFPA,202,,,,545,,,,,
+Sub-Saharan Africa,2024,United Nations Population Division,202,62.3,64.4,60.3,,2.5,4.3,67.6,,
+Sudan,2010,United Nations Population Division,729,63.0,65.7,60.6,,2.1,5.1,74.7,Africa,World
+Sudan,2010,WHO_UNICEF_UNFPA,729,,,,383,,,,Africa,World
+Sudan,2015,United Nations Population Division,729,64.4,67.3,61.7,,3.0,4.9,64.8,Africa,World
+Sudan,2015,WHO_UNICEF_UNFPA,729,,,,298,,,,Africa,World
+Sudan,2020,United Nations Population Division,729,65.1,68.2,62.4,,2.6,4.5,55.3,Africa,World
+Sudan,2020,WHO_UNICEF_UNFPA,729,,,,270,,,,Africa,World
+Sudan,2024,United Nations Population Division,729,66.5,69.8,63.4,,1.6,4.3,53.0,Africa,World
+Suriname,2010,United Nations Population Division,740,69.6,73.1,66.5,,1.2,2.7,23.2,South America,World
+Suriname,2010,WHO_UNICEF_UNFPA,740,,,,138,,,,South America,World
+Suriname,2015,United Nations Population Division,740,70.6,73.9,67.5,,1.1,2.6,20.4,South America,World
+Suriname,2015,WHO_UNICEF_UNFPA,740,,,,125,,,,South America,World
+Suriname,2020,United Nations Population Division,740,72.3,76.2,68.6,,1.0,2.3,17.7,South America,World
+Suriname,2020,WHO_UNICEF_UNFPA,740,,,,96,,,,South America,World
+Suriname,2024,United Nations Population Division,740,73.8,77.0,70.6,,0.8,2.2,12.4,South America,World
+Sweden,2010,United Nations Population Division,752,81.5,83.5,79.5,,0.8,2.0,3.1,Europe,World
+Sweden,2010,WHO_UNICEF_UNFPA,752,,,,5,,,,Europe,World
+Sweden,2015,United Nations Population Division,752,82.2,84.0,80.3,,1.1,1.8,2.9,Europe,World
+Sweden,2015,WHO_UNICEF_UNFPA,752,,,,4,,,,Europe,World
+Sweden,2020,United Nations Population Division,752,82.4,84.3,80.6,,0.5,1.7,2.8,Europe,World
+Sweden,2020,WHO_UNICEF_UNFPA,752,,,,5,,,,Europe,World
+Sweden,2024,United Nations Population Division,752,83.4,85.2,81.6,,0.5,1.4,2.4,Europe,World
+Switzerland,2010,United Nations Population Division,756,82.3,84.4,80.0,,1.2,1.5,4.4,Europe,World
+Switzerland,2010,WHO_UNICEF_UNFPA,756,,,,8,,,,Europe,World
+Switzerland,2015,United Nations Population Division,756,82.8,84.9,80.7,,1.1,1.5,4.6,Europe,World
+Switzerland,2015,WHO_UNICEF_UNFPA,756,,,,6,,,,Europe,World
+Switzerland,2020,United Nations Population Division,756,83.1,85.1,81.0,,0.7,1.5,4.2,Europe,World
+Switzerland,2020,WHO_UNICEF_UNFPA,756,,,,7,,,,Europe,World
+Switzerland,2024,United Nations Population Division,756,84.1,85.9,82.2,,0.5,1.4,3.6,Europe,World
+Syrian Arab Republic,2010,United Nations Population Division,760,73.5,75.6,71.6,,2.2,3.4,19.3,Asia,World
+Syrian Arab Republic,2010,WHO_UNICEF_UNFPA,760,,,,21,,,,Asia,World
+Syrian Arab Republic,2015,United Nations Population Division,760,63.3,70.6,57.2,,-3.0,3.1,38.2,Asia,World
+Syrian Arab Republic,2015,WHO_UNICEF_UNFPA,760,,,,30,,,,Asia,World
+Syrian Arab Republic,2020,United Nations Population Division,760,71.9,74.8,69.2,,2.8,2.8,22.3,Asia,World
+Syrian Arab Republic,2020,WHO_UNICEF_UNFPA,760,,,,30,,,,Asia,World
+Syrian Arab Republic,2024,United Nations Population Division,760,72.6,74.9,70.2,,4.0,2.7,21.4,Asia,World
+Tajikistan,2010,United Nations Population Division,762,68.4,71.1,65.7,,2.2,3.5,44.0,Asia,World
+Tajikistan,2010,WHO_UNICEF_UNFPA,762,,,,32,,,,Asia,World
+Tajikistan,2015,United Nations Population Division,762,69.7,72.2,67.2,,2.6,3.5,37.8,Asia,World
+Tajikistan,2015,WHO_UNICEF_UNFPA,762,,,,20,,,,Asia,World
+Tajikistan,2020,United Nations Population Division,762,68.6,71.1,66.2,,2.2,3.2,32.7,Asia,World
+Tajikistan,2020,WHO_UNICEF_UNFPA,762,,,,17,,,,Asia,World
+Tajikistan,2024,United Nations Population Division,762,71.9,74.1,69.7,,1.9,3.0,25.9,Asia,World
+Thailand,2010,United Nations Population Division,764,75.0,78.7,71.4,,0.6,1.6,12.7,Asia,World
+Thailand,2010,WHO_UNICEF_UNFPA,764,,,,35,,,,Asia,World
+Thailand,2015,United Nations Population Division,764,76.6,80.9,72.5,,0.4,1.5,10.4,Asia,World
+Thailand,2015,WHO_UNICEF_UNFPA,764,,,,30,,,,Asia,World
+Thailand,2020,United Nations Population Division,764,77.3,81.9,73.0,,0.2,1.3,8.7,Asia,World
+Thailand,2020,WHO_UNICEF_UNFPA,764,,,,29,,,,Asia,World
+Thailand,2024,United Nations Population Division,764,76.6,81.0,72.3,,-0.1,1.2,10.0,Asia,World
+Timor-Leste,2010,United Nations Population Division,626,63.7,65.3,62.1,,2.4,4.8,71.9,Asia,World
+Timor-Leste,2010,WHO_UNICEF_UNFPA,626,,,,376,,,,Asia,World
+Timor-Leste,2015,United Nations Population Division,626,65.3,67.0,63.8,,1.9,3.8,60.9,Asia,World
+Timor-Leste,2015,WHO_UNICEF_UNFPA,626,,,,285,,,,Asia,World
+Timor-Leste,2020,United Nations Population Division,626,66.9,68.9,65.1,,1.9,3.0,51.8,Asia,World
+Timor-Leste,2020,WHO_UNICEF_UNFPA,626,,,,204,,,,Asia,World
+Timor-Leste,2024,United Nations Population Division,626,67.9,69.7,66.3,,1.3,2.6,45.1,Asia,World
+Togo,2010,United Nations Population Division,768,57.2,57.5,56.9,,2.7,5.1,89.0,Africa,World
+Togo,2010,WHO_UNICEF_UNFPA,768,,,,530,,,,Africa,World
+Togo,2015,United Nations Population Division,768,59.2,59.5,58.9,,2.5,4.7,75.9,Africa,World
+Togo,2015,WHO_UNICEF_UNFPA,768,,,,441,,,,Africa,World
+Togo,2020,United Nations Population Division,768,61.1,61.4,60.8,,2.4,4.4,64.4,Africa,World
+Togo,2020,WHO_UNICEF_UNFPA,768,,,,399,,,,Africa,World
+Togo,2024,United Nations Population Division,768,62.9,63.2,62.7,,2.2,4.1,57.3,Africa,World
+Tokelau,2010,United Nations Population Division,772,74.5,76.5,72.6,,0.4,3.2,9.7,Oceania,World
+Tokelau,2015,United Nations Population Division,772,75.7,77.6,73.7,,-1.9,2.9,7.6,Oceania,World
+Tokelau,2024,United Nations Population Division,772,77.2,79.0,75.1,,4.3,2.6,5.2,Oceania,World
+Tonga,2010,United Nations Population Division,776,71.3,75.2,67.9,,0.2,3.9,13.3,Oceania,World
+Tonga,2010,WHO_UNICEF_UNFPA,776,,,,93,,,,Oceania,World
+Tonga,2015,United Nations Population Division,776,71.9,75.6,68.4,,-0.5,3.5,12.4,Oceania,World
+Tonga,2015,WHO_UNICEF_UNFPA,776,,,,86,,,,Oceania,World
+Tonga,2020,United Nations Population Division,776,72.4,76.1,68.9,,0.0,3.2,11.4,Oceania,World
+Tonga,2020,WHO_UNICEF_UNFPA,776,,,,126,,,,Oceania,World
+Tonga,2024,United Nations Population Division,776,73.1,76.5,69.5,,-0.4,3.1,10.3,Oceania,World
+"Total, all countries or areas",2010,United Nations Population Division,1,70.1,72.7,67.6,,1.3,2.6,51.6,,
+"Total, all countries or areas",2010,WHO_UNICEF_UNFPA,1,,,,254,,,,,
+"Total, all countries or areas",2015,United Nations Population Division,1,71.6,74.2,69.1,,1.2,2.5,43.6,,
+"Total, all countries or areas",2015,WHO_UNICEF_UNFPA,1,,,,227,,,,,
+"Total, all countries or areas",2020,United Nations Population Division,1,71.9,74.7,69.3,,0.9,2.3,38.3,,
+"Total, all countries or areas",2020,WHO_UNICEF_UNFPA,1,,,,223,,,,,
+"Total, all countries or areas",2024,United Nations Population Division,1,73.3,76.0,70.7,,0.9,2.2,36.0,,
+Trinidad and Tobago,2010,United Nations Population Division,780,71.8,74.9,68.7,,0.6,1.6,22.3,North America,World
+Trinidad and Tobago,2010,WHO_UNICEF_UNFPA,780,,,,47,,,,North America,World
+Trinidad and Tobago,2015,United Nations Population Division,780,72.9,75.9,69.9,,0.6,1.6,19.2,North America,World
+Trinidad and Tobago,2015,WHO_UNICEF_UNFPA,780,,,,31,,,,North America,World
+Trinidad and Tobago,2020,United Nations Population Division,780,72.6,76.0,69.4,,0.4,1.6,16.9,North America,World
+Trinidad and Tobago,2020,WHO_UNICEF_UNFPA,780,,,,27,,,,North America,World
+Trinidad and Tobago,2024,United Nations Population Division,780,73.6,76.8,70.5,,0.3,1.5,15.8,North America,World
+Tunisia,2010,United Nations Population Division,788,74.4,76.9,72.1,,1.1,2.1,19.0,Africa,World
+Tunisia,2010,WHO_UNICEF_UNFPA,788,,,,44,,,,Africa,World
+Tunisia,2015,United Nations Population Division,788,74.9,77.4,72.4,,1.1,2.3,17.3,Africa,World
+Tunisia,2015,WHO_UNICEF_UNFPA,788,,,,40,,,,Africa,World
+Tunisia,2020,United Nations Population Division,788,75.0,77.7,72.4,,0.8,2.0,13.3,Africa,World
+Tunisia,2020,WHO_UNICEF_UNFPA,788,,,,37,,,,Africa,World
+Tunisia,2024,United Nations Population Division,788,76.7,79.3,74.1,,0.6,1.8,11.5,Africa,World
+Turkmenistan,2010,United Nations Population Division,795,68.6,71.8,65.2,,2.1,2.8,43.8,Asia,World
+Turkmenistan,2010,WHO_UNICEF_UNFPA,795,,,,9,,,,Asia,World
+Turkmenistan,2015,United Nations Population Division,795,69.1,72.1,65.7,,2.3,3.0,42.6,Asia,World
+Turkmenistan,2015,WHO_UNICEF_UNFPA,795,,,,6,,,,Asia,World
+Turkmenistan,2020,United Nations Population Division,795,68.8,71.9,65.4,,2.1,2.8,41.8,Asia,World
+Turkmenistan,2020,WHO_UNICEF_UNFPA,795,,,,5,,,,Asia,World
+Turkmenistan,2024,United Nations Population Division,795,70.2,73.0,67.0,,1.7,2.7,35.8,Asia,World
+Turks and Caicos Islands,2010,United Nations Population Division,796,76.8,79.0,74.8,,3.8,1.9,7.6,North America,World
+Turks and Caicos Islands,2015,United Nations Population Division,796,77.3,79.5,75.3,,5.1,1.7,6.9,North America,World
+Turks and Caicos Islands,2024,United Nations Population Division,796,78.2,80.4,76.0,,0.7,1.5,5.6,North America,World
+Tuvalu,2010,United Nations Population Division,798,64.8,67.8,61.9,,1.6,3.4,31.4,Oceania,World
+Tuvalu,2015,United Nations Population Division,798,65.4,68.9,62.1,,-0.2,3.3,26.0,Oceania,World
+Tuvalu,2024,United Nations Population Division,798,67.3,70.9,63.9,,-1.7,3.2,19.3,Oceania,World
+Türkiye,2010,United Nations Population Division,792,75.0,78.2,71.9,,1.2,2.1,18.0,Asia,World
+Türkiye,2010,WHO_UNICEF_UNFPA,792,,,,22,,,,Asia,World
+Türkiye,2015,United Nations Population Division,792,76.5,79.7,73.5,,2.5,2.2,13.4,Asia,World
+Türkiye,2015,WHO_UNICEF_UNFPA,792,,,,19,,,,Asia,World
+Türkiye,2020,United Nations Population Division,792,76.5,79.9,73.4,,0.8,1.8,10.6,Asia,World
+Türkiye,2020,WHO_UNICEF_UNFPA,792,,,,17,,,,Asia,World
+Türkiye,2024,United Nations Population Division,792,77.4,80.3,74.6,,0.2,1.6,11.3,Asia,World
+Uganda,2010,United Nations Population Division,800,60.0,62.1,57.7,,2.9,6.0,76.2,Africa,World
+Uganda,2010,WHO_UNICEF_UNFPA,800,,,,372,,,,Africa,World
+Uganda,2015,United Nations Population Division,800,63.8,66.3,61.2,,3.1,5.3,55.8,Africa,World
+Uganda,2015,WHO_UNICEF_UNFPA,800,,,,319,,,,Africa,World
+Uganda,2020,United Nations Population Division,800,66.4,69.4,63.4,,3.2,4.6,43.5,Africa,World
+Uganda,2020,WHO_UNICEF_UNFPA,800,,,,284,,,,Africa,World
+Uganda,2024,United Nations Population Division,800,68.5,71.4,65.5,,2.7,4.2,37.7,Africa,World
+Ukraine,2010,United Nations Population Division,804,70.2,75.3,65.0,,-0.4,1.4,11.0,Europe,World
+Ukraine,2010,WHO_UNICEF_UNFPA,804,,,,17,,,,Europe,World
+Ukraine,2015,United Nations Population Division,804,72.7,77.5,67.7,,-0.4,1.4,8.9,Europe,World
+Ukraine,2015,WHO_UNICEF_UNFPA,804,,,,11,,,,Europe,World
+Ukraine,2020,United Nations Population Division,804,73.3,78.0,68.3,,-0.7,1.2,7.1,Europe,World
+Ukraine,2020,WHO_UNICEF_UNFPA,804,,,,17,,,,Europe,World
+Ukraine,2024,United Nations Population Division,804,74.7,79.4,69.8,,2.2,1.0,6.1,Europe,World
+United Arab Emirates,2010,United Nations Population Division,784,81.9,83.0,81.2,,3.4,1.6,8.6,Asia,World
+United Arab Emirates,2010,WHO_UNICEF_UNFPA,784,,,,9,,,,Asia,World
+United Arab Emirates,2015,United Nations Population Division,784,82.1,83.3,81.3,,4.9,1.4,7.6,Asia,World
+United Arab Emirates,2015,WHO_UNICEF_UNFPA,784,,,,9,,,,Asia,World
+United Arab Emirates,2020,United Nations Population Division,784,81.9,83.9,80.8,,1.9,1.3,6.5,Asia,World
+United Arab Emirates,2020,WHO_UNICEF_UNFPA,784,,,,9,,,,Asia,World
+United Arab Emirates,2024,United Nations Population Division,784,83.1,84.3,82.2,,3.4,1.2,6.2,Asia,World
+United Kingdom,2010,United Nations Population Division,826,80.4,82.3,78.3,,0.8,1.9,5.1,Europe,World
+United Kingdom,2010,WHO_UNICEF_UNFPA,826,,,,10,,,,Europe,World
+United Kingdom,2015,United Nations Population Division,826,80.9,82.7,79.0,,0.8,1.8,4.5,Europe,World
+United Kingdom,2015,WHO_UNICEF_UNFPA,826,,,,8,,,,Europe,World
+United Kingdom,2020,United Nations Population Division,826,80.4,82.4,78.4,,0.2,1.6,4.2,Europe,World
+United Kingdom,2020,WHO_UNICEF_UNFPA,826,,,,10,,,,Europe,World
+United Kingdom,2024,United Nations Population Division,826,81.4,83.3,79.5,,0.6,1.6,4.2,Europe,World
+United Rep. of Tanzania,2010,United Nations Population Division,834,61.1,62.9,59.3,,2.8,5.2,69.1,Africa,World
+United Rep. of Tanzania,2010,WHO_UNICEF_UNFPA,834,,,,486,,,,Africa,World
+United Rep. of Tanzania,2015,United Nations Population Division,834,63.9,66.2,61.6,,3.5,5.0,54.5,Africa,World
+United Rep. of Tanzania,2015,WHO_UNICEF_UNFPA,834,,,,330,,,,Africa,World
+United Rep. of Tanzania,2020,United Nations Population Division,834,66.8,70.0,63.7,,3.0,4.8,43.9,Africa,World
+United Rep. of Tanzania,2020,WHO_UNICEF_UNFPA,834,,,,238,,,,Africa,World
+United Rep. of Tanzania,2024,United Nations Population Division,834,67.2,70.0,64.4,,2.9,4.5,38.0,Africa,World
+United States Virgin Islands,2010,United Nations Population Division,850,73.2,77.8,69.1,,-0.7,2.5,9.8,North America,World
+United States Virgin Islands,2015,United Nations Population Division,850,74.3,79.8,69.6,,-2.3,2.2,7.9,North America,World
+United States Virgin Islands,2024,United Nations Population Division,850,75.7,81.5,70.7,,-0.9,2.1,5.5,North America,World
+United States of America,2010,United Nations Population Division,840,78.7,81.1,76.2,,1.0,1.9,7.2,North America,World
+United States of America,2010,WHO_UNICEF_UNFPA,840,,,,14,,,,North America,World
+United States of America,2015,United Nations Population Division,840,78.7,81.1,76.3,,0.9,1.8,6.9,North America,World
+United States of America,2015,WHO_UNICEF_UNFPA,840,,,,17,,,,North America,World
+United States of America,2020,United Nations Population Division,840,77.0,79.9,74.3,,0.2,1.6,6.2,North America,World
+United States of America,2020,WHO_UNICEF_UNFPA,840,,,,21,,,,North America,World
+United States of America,2024,United Nations Population Division,840,79.5,82.0,77.0,,0.5,1.6,5.9,North America,World
+Uruguay,2010,United Nations Population Division,858,76.7,80.6,72.7,,0.3,2.0,10.0,South America,World
+Uruguay,2010,WHO_UNICEF_UNFPA,858,,,,18,,,,South America,World
+Uruguay,2015,United Nations Population Division,858,77.3,81.0,73.4,,0.4,2.0,9.0,South America,World
+Uruguay,2015,WHO_UNICEF_UNFPA,858,,,,17,,,,South America,World
+Uruguay,2020,United Nations Population Division,858,78.4,82.0,74.5,,0.1,1.5,6.7,South America,World
+Uruguay,2020,WHO_UNICEF_UNFPA,858,,,,19,,,,South America,World
+Uruguay,2024,United Nations Population Division,858,78.3,82.0,74.4,,-0.1,1.4,7.0,South America,World
+Uzbekistan,2010,United Nations Population Division,860,69.8,72.7,67.0,,1.6,2.4,30.3,Asia,World
+Uzbekistan,2010,WHO_UNICEF_UNFPA,860,,,,38,,,,Asia,World
+Uzbekistan,2015,United Nations Population Division,860,71.3,74.2,68.5,,1.7,2.6,20.1,Asia,World
+Uzbekistan,2015,WHO_UNICEF_UNFPA,860,,,,31,,,,Asia,World
+Uzbekistan,2020,United Nations Population Division,860,71.5,74.5,68.6,,1.9,3.1,15.0,Asia,World
+Uzbekistan,2020,WHO_UNICEF_UNFPA,860,,,,30,,,,Asia,World
+Uzbekistan,2024,United Nations Population Division,860,72.5,75.5,69.6,,1.9,3.5,14.8,Asia,World
+Vanuatu,2010,United Nations Population Division,548,69.6,72.5,67.6,,2.2,4.1,23.8,Oceania,World
+Vanuatu,2010,WHO_UNICEF_UNFPA,548,,,,93,,,,Oceania,World
+Vanuatu,2015,United Nations Population Division,548,70.2,72.9,68.2,,2.2,4.0,21.5,Oceania,World
+Vanuatu,2015,WHO_UNICEF_UNFPA,548,,,,92,,,,Oceania,World
+Vanuatu,2020,United Nations Population Division,548,70.4,73.2,68.2,,2.4,3.7,19.2,Oceania,World
+Vanuatu,2020,WHO_UNICEF_UNFPA,548,,,,94,,,,Oceania,World
+Vanuatu,2024,United Nations Population Division,548,71.7,74.1,69.6,,2.3,3.6,17.0,Oceania,World
+Venezuela (Boliv. Rep. of),2010,United Nations Population Division,862,73.1,77.4,69.1,,1.3,2.4,17.5,South America,World
+Venezuela (Boliv. Rep. of),2010,WHO_UNICEF_UNFPA,862,,,,112,,,,South America,World
+Venezuela (Boliv. Rep. of),2015,United Nations Population Division,862,73.0,77.4,68.9,,1.0,2.3,18.3,South America,World
+Venezuela (Boliv. Rep. of),2015,WHO_UNICEF_UNFPA,862,,,,126,,,,South America,World
+Venezuela (Boliv. Rep. of),2020,United Nations Population Division,862,72.4,76.5,68.5,,-1.0,2.1,18.8,South America,World
+Venezuela (Boliv. Rep. of),2020,WHO_UNICEF_UNFPA,862,,,,259,,,,South America,World
+Venezuela (Boliv. Rep. of),2024,United Nations Population Division,862,72.7,76.7,68.9,,0.4,2.1,17.9,South America,World
+Viet Nam,2010,United Nations Population Division,704,73.6,78.4,68.8,,1.1,1.9,23.3,Asia,World
+Viet Nam,2010,WHO_UNICEF_UNFPA,704,,,,60,,,,Asia,World
+Viet Nam,2015,United Nations Population Division,704,74.0,78.7,69.1,,1.2,2.1,22.1,Asia,World
+Viet Nam,2015,WHO_UNICEF_UNFPA,704,,,,52,,,,Asia,World
+Viet Nam,2020,United Nations Population Division,704,75.4,80.3,70.4,,0.9,2.0,21.0,Asia,World
+Viet Nam,2020,WHO_UNICEF_UNFPA,704,,,,46,,,,Asia,World
+Viet Nam,2024,United Nations Population Division,704,74.7,79.4,70.1,,0.6,1.9,19.7,Asia,World
+Wallis and Futuna Islands,2010,United Nations Population Division,876,76.8,78.4,75.3,,-1.9,1.9,15.3,Oceania,World
+Wallis and Futuna Islands,2015,United Nations Population Division,876,77.5,78.5,76.4,,-1.1,2.0,14.5,Oceania,World
+Wallis and Futuna Islands,2024,United Nations Population Division,876,78.7,79.7,77.8,,-0.8,1.4,12.8,Oceania,World
+Western Africa,2010,United Nations Population Division,11,54.3,55.1,53.5,,2.8,5.7,123.2,,
+Western Africa,2010,WHO_UNICEF_UNFPA,11,,,,850,,,,,
+Western Africa,2015,United Nations Population Division,11,55.6,56.3,54.8,,2.6,5.3,110.6,,
+Western Africa,2015,WHO_UNICEF_UNFPA,11,,,,808,,,,,
+Western Africa,2020,United Nations Population Division,11,56.9,57.8,55.9,,2.3,4.6,98.1,,
+Western Africa,2020,WHO_UNICEF_UNFPA,11,,,,754,,,,,
+Western Africa,2024,United Nations Population Division,11,58.4,59.4,57.5,,2.2,4.4,89.2,,
+Western Asia,2010,United Nations Population Division,145,73.2,75.9,70.7,,2.2,3.0,27.3,,
+Western Asia,2010,WHO_UNICEF_UNFPA,145,,,,61,,,,,
+Western Asia,2015,United Nations Population Division,145,73.6,76.7,70.8,,2.4,2.9,25.2,,
+Western Asia,2015,WHO_UNICEF_UNFPA,145,,,,62,,,,,
+Western Asia,2020,United Nations Population Division,145,73.9,77.0,71.2,,1.4,2.6,21.6,,
+Western Asia,2020,WHO_UNICEF_UNFPA,145,,,,63,,,,,
+Western Asia,2024,United Nations Population Division,145,75.6,78.1,73.2,,1.7,2.5,20.8,,
+Western Europe,2010,United Nations Population Division,155,80.6,83.3,77.8,,0.3,1.7,4.3,,
+Western Europe,2010,WHO_UNICEF_UNFPA,155,,,,8,,,,,
+Western Europe,2015,United Nations Population Division,155,81.3,83.8,78.7,,0.8,1.7,4.1,,
+Western Europe,2015,WHO_UNICEF_UNFPA,155,,,,6,,,,,
+Western Europe,2020,United Nations Population Division,155,81.5,84.0,79.0,,0.2,1.6,3.9,,
+Western Europe,2020,WHO_UNICEF_UNFPA,155,,,,6,,,,,
+Western Europe,2024,United Nations Population Division,155,82.4,84.7,80.0,,0.0,1.5,3.6,,
+Western Sahara,2010,United Nations Population Division,732,67.5,69.3,65.9,,3.7,2.6,47.3,Africa,World
+Western Sahara,2015,United Nations Population Division,732,69.3,71.3,67.6,,2.8,2.4,37.7,Africa,World
+Western Sahara,2024,United Nations Population Division,732,71.6,73.8,69.9,,1.8,2.2,27.0,Africa,World
+Yemen,2010,United Nations Population Division,887,67.2,69.1,65.3,,3.1,4.8,56.1,Asia,World
+Yemen,2010,WHO_UNICEF_UNFPA,887,,,,157,,,,Asia,World
+Yemen,2015,United Nations Population Division,887,66.8,69.7,64.0,,3.0,4.6,49.8,Asia,World
+Yemen,2015,WHO_UNICEF_UNFPA,887,,,,164,,,,Asia,World
+Yemen,2020,United Nations Population Division,887,66.4,69.8,63.3,,2.7,4.6,43.4,Asia,World
+Yemen,2020,WHO_UNICEF_UNFPA,887,,,,183,,,,Asia,World
+Yemen,2024,United Nations Population Division,887,69.4,71.5,67.4,,2.9,4.5,38.8,Asia,World
+Zambia,2010,United Nations Population Division,894,56.9,58.2,55.5,,3.4,5.4,80.1,Africa,World
+Zambia,2010,WHO_UNICEF_UNFPA,894,,,,268,,,,Africa,World
+Zambia,2015,United Nations Population Division,894,60.7,62.8,58.5,,3.1,4.8,67.8,Africa,World
+Zambia,2015,WHO_UNICEF_UNFPA,894,,,,166,,,,Africa,World
+Zambia,2020,United Nations Population Division,894,63.4,66.0,60.7,,2.9,4.3,59.1,Africa,World
+Zambia,2020,WHO_UNICEF_UNFPA,894,,,,135,,,,Africa,World
+Zambia,2024,United Nations Population Division,894,66.5,68.9,64.1,,2.8,4.0,50.8,Africa,World
+Zimbabwe,2010,United Nations Population Division,716,51.9,52.7,51.2,,1.7,4.0,82.7,Africa,World
+Zimbabwe,2010,WHO_UNICEF_UNFPA,716,,,,618,,,,Africa,World
+Zimbabwe,2015,United Nations Population Division,716,59.0,60.5,57.3,,1.3,3.9,60.8,Africa,World
+Zimbabwe,2015,WHO_UNICEF_UNFPA,716,,,,408,,,,Africa,World
+Zimbabwe,2020,United Nations Population Division,716,61.5,63.7,59.1,,1.7,3.8,50.0,Africa,World
+Zimbabwe,2020,WHO_UNICEF_UNFPA,716,,,,357,,,,Africa,World
+Zimbabwe,2024,United Nations Population Division,716,63.1,65.3,60.5,,1.9,3.7,44.3,Africa,World
